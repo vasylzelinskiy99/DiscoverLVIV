@@ -1,51 +1,70 @@
 import React, {PropTypes} from 'react';
+import {Link} from 'react-router-dom'
 import {Card, Col, Row} from 'antd';
+import EventsListItem from './EventsListItem'
 
 export default class PostsList extends React.Component {
   render() {
-    return (<Row gutter={16} style={{
-        padding:'2em 4em'
+    return (
+      <div>
+      <Row className="events_list" gutter={16} style={{
+        padding: '2em 4em'
       }}>
       <Col span={6}>
-        <Card bordered={true} bodyStyle={{ padding: 0 }} style="">
-          <img src="https://media.timeout.com/images/101887547/image.jpg" alt="" style={{width:'100%'}}/>
-          <div className="card_content">
-          <h3>Event title</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          </p>
-          </div>
-        </Card>
+        <Link to={{
+            pathname: '/event',
+            search: 'http://malevich.virtual.ua/images/381062/'
+          }}><EventsListItem img="http://malevich.virtual.ua/images/381062/"/></Link>
       </Col>
       <Col span={6}>
-        <Card bordered={true} bodyStyle={{ padding: 0 }} style={{background:'url("https://media.timeout.com/images/101887547/image.jpg")', backgroundSize:'cover'}}>
-          <div className="card_content">
-          <h3>Event title</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          </p>
-          </div>
-        </Card>
+        <Link to={{
+            pathname: '/event',
+            search: 'http://malevich.virtual.ua/images/381782/'
+          }}><EventsListItem img="http://malevich.virtual.ua/images/381782/"/></Link>
       </Col>
       <Col span={6}>
-        <Card bordered={true} bodyStyle={{ padding: 0 }}>
-          <img src="https://media.timeout.com/images/101887547/image.jpg" alt="" style={{width:'100%'}}/>
-          <div className="card_content">
-          <h3>Event title</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          </p>
-          </div>
-        </Card>
+        <Link to={{
+            pathname: '/event',
+            search: 'http://malevich.virtual.ua/images/385895/'
+          }}><EventsListItem img="http://malevich.virtual.ua/images/385895/"/></Link>
       </Col>
       <Col span={6}>
-        <Card bordered={true} bodyStyle={{ padding: 0 }}>
-          <img src="https://media.timeout.com/images/101887547/image.jpg" alt="" style={{width:'100%'}}/>
-          <div className="card_content">
-          <h3>Event title</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          </p>
-          </div>
-        </Card>
+        <Link to={{
+            pathname: '/event',
+            search: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5AWxGdos9sGJDnxA4LWdTpPXKC0c99Hgw-nvlsmCBthggoajiA'
+          }}><EventsListItem img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5AWxGdos9sGJDnxA4LWdTpPXKC0c99Hgw-nvlsmCBthggoajiA"/></Link>
       </Col>
-    </Row>);
+      </Row>
+      <Row className="events_list" gutter={16} style={{
+        padding: '2em 4em'
+      }}>
+      <Col span={6}>
+        <Link to={{
+            pathname: '/event',
+            search: 'http://malevich.virtual.ua/images/381782/'
+          }}><EventsListItem img="http://malevich.virtual.ua/images/381782/"/></Link>
+      </Col>
+      <Col span={6}>
+        <Link to={{
+            pathname: '/event',
+            search: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5AWxGdos9sGJDnxA4LWdTpPXKC0c99Hgw-nvlsmCBthggoajiA'
+          }}><EventsListItem img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5AWxGdos9sGJDnxA4LWdTpPXKC0c99Hgw-nvlsmCBthggoajiA"/></Link>
+      </Col>
+      <Col span={6}>
+        <Link to={{
+            pathname: '/event',
+            search: 'http://malevich.virtual.ua/images/385895/'
+          }}><EventsListItem img="http://malevich.virtual.ua/images/385895/"/></Link>
+      </Col>
+      <Col span={6}>
+        <Link to={{
+            pathname: '/event',
+            search: 'http://malevich.virtual.ua/images/381062/'
+          }}><EventsListItem img="http://malevich.virtual.ua/images/381062/"/></Link>
+      </Col>
+    </Row>
+    </div>
+  );
   }
 }
 

@@ -1,6 +1,5 @@
 import React, {PropTypes} from 'react';
-import { Menu, Icon, Layout } from 'antd';
-import TopBar from '../components/nav/TopBar'
+import { Menu, Icon} from 'antd';
 import {TopBanner} from './TopBanner'
 import CategoriesMenu from './CategoriesMenu'
 import PostsList from './PostsList'
@@ -13,12 +12,11 @@ export default class Home extends React.Component {
   }
   render() {
     return (
-      <Layout>
-      <TopBar/>
+      <div>
       <TopBanner/>
       <CategoriesMenu/>
       <PostsList/>
-      </Layout>
+      </div>
     );
   }
 }

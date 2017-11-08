@@ -84,7 +84,7 @@ module.exports = {
     // for React Native Web.
     extensions: ['.web.js', '.mjs', '.js', '.json', '.web.jsx', '.jsx'],
     alias: {
-      
+
       // Support React Native Web
       // https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/
       'react-native': 'react-native-web',
@@ -115,7 +115,7 @@ module.exports = {
             options: {
               formatter: eslintFormatter,
               eslintPath: require.resolve('eslint'),
-              
+
             },
             loader: require.resolve('eslint-loader'),
           },
@@ -144,7 +144,7 @@ module.exports = {
             include: paths.appSrc,
             loader: require.resolve('babel-loader'),
             options: {
-              
+
               // This is a feature of `babel-loader` for webpack (not Babel itself).
               // It enables caching results in ./node_modules/.cache/babel-loader/
               // directory for faster rebuilds.
@@ -157,7 +157,7 @@ module.exports = {
           // In production, we use a plugin to extract that CSS to a file, but
           // in development "style" loader enables hot editing of CSS.
           {
-            test: /\.css$/,
+            test: /\.sass$/,
             use: [
               require.resolve('style-loader'),
               {
@@ -165,6 +165,9 @@ module.exports = {
                 options: {
                   importLoaders: 1,
                 },
+              },
+              {
+                loader: require.resolve('sass-loader'),
               },
               {
                 loader: require.resolve('postcss-loader'),
@@ -188,6 +191,14 @@ module.exports = {
               },
             ],
           },
+          {
+       test: /\.woff$/,
+       loader: require.resolve('url-loader'),
+     },
+     {
+       test: /\.(ttf|eot|svg)$/,
+       loader: require.resolve('file-loader')
+     },
           // "file" loader makes sure those assets get served by WebpackDevServer.
           // When you `import` an asset, you get its (virtual) filename.
           // In production, they would get copied to the `build` folder.

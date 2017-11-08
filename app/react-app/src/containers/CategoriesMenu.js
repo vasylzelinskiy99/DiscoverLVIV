@@ -22,19 +22,19 @@ export default class CategoriesMenu extends React.Component {
         style={{display: 'flex',justifyContent: 'center'}}
       >
         <Menu.Item key="all">
-          <Icon type="mail" />All
+          All
         </Menu.Item>
         <Menu.Item key="sport">
-          <Icon type="appstore" />Sport
+          Sport
         </Menu.Item>
         <Menu.Item key="party">
-          <a href="#">Party</a>
+            Party
         </Menu.Item>
         <Menu.Item key="exhibition">
-          <a href="#">Exhibition</a>
+            Exhibition
         </Menu.Item>
         <Menu.Item key="science">
-          <a href="#">Science</a>
+            Science
         </Menu.Item>
       </Menu>
     );
