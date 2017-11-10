@@ -1,0 +1,88 @@
+.events_list
+
+  .card
+    height: $article_height
+    &:hover
+      .event_description__text
+        height: 100px
+        position: relative
+  .event_content
+    color: #fff !important
+    width: 100%
+    position: absolute
+    bottom: 0
+    padding: 15px 15px 15px
+    -webkit-transition: -webkit-transform .3s
+    transition: -webkit-transform .3s
+    transition: transform .3s
+    transition: transform .3s,-webkit-transform .3s
+    p,h2,h1,h3,span
+      position: relative
+      z-index: 2
+      color: #fff !important
+  .blur
+    position: absolute
+    top: 0
+    right: 0
+    bottom: 0
+    left: 0
+    z-index: 0
+    filter: blur(8px)
+  .event_title
+    margin-bottom: 10px
+
+  .info-table__table
+    width: calc(100% + 5px)
+    position: relative
+    bottom: -4px
+    left: -2px
+    z-index: 1
+    margin-top: -6px
+    border-spacing: 2px
+    table-layout: fixed
+
+  .info-table__cell
+    vertical-align: middle
+    height: 28px
+    background-color: #000
+    background-color: rgba(0,0,0,.4)
+    padding: 0 10px
+    will-change: auto
+
+  .event__info-date
+    font-size: 8px
+    font-size: .5rem
+    line-height: 1.625
+    text-transform: uppercase
+    letter-spacing: 1.43px
+
+  .event_description__text
+    height: 0
+    transition: height .5s
+    padding: 0 0 20px 0
+    overflow: hidden
+
+  .event__info-day,.event__info-time
+    font-size: 25px
+    font-size: 1.5625rem
+
+  .event__info-month
+    vertical-align: top
+
+  .event__info-date, .event__info-time
+    height: 45px!important
+
+  .event__info-day
+    line-height: 100%
+    margin-right: 4px
+    float: left
+
+  @media #{$mobile_above}
+    .event__info-place
+      font-size: 14px
+      font-size: .875rem
+      height: 45px!important
+      width: 66.339066339%
+
+    .event__info-date_mobile
+      display: none
