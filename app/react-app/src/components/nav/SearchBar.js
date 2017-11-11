@@ -2,7 +2,7 @@ import React, {PropTypes} from 'react';
 import { Input } from 'antd';
 const Search = Input.Search;
 
-export const SearchBar = (props) => {
+export const SearchBar = () => {
   return (
     <Search
     placeholder="input search text"

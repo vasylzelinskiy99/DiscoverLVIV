@@ -8,12 +8,13 @@ import './App.sass';
 
 class App extends Component {
   render() {
-    return (<BrowserRouter>
+    return (
+      <BrowserRouter>
       <ScrollToTop>
         <Layout>
           <Switch>
             <Route exact path='/' component={Home}/>
-            <Route path='/event' component={EventPage}/>
+            <Route exact path='/event' component={EventPage}/>
           </Switch>
         </Layout>
       </ScrollToTop>
