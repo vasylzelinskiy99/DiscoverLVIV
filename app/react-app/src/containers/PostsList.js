@@ -10,7 +10,7 @@ export default class PostsList extends React.Component {
     this.state = {events: []}
   }
   componentDidMount(){
-    axios.get('http://localhost:3001/events?lat=49.839683&lng=24.029717&distance=100&sort=venue&accessToken=EAACwx2vak28BAE1p0ncC1rwkqNZBIdmywAh7jchA1URa46ZBlEt9rgqJg8sp8aY4TFOD4lRLd03k3UZC9VF4CQHfJZBlPzl80oemfOl0wPc3DRL7ovKNTPzLlDKcyHhkDZAa7SGoInfHwQHpRZAwSwX3MGzj4nZB2pIM96PZCR0Bp31uGWcCGzZBHXXH2cQV5e7lFp6G2aj6LHQZDZD')
+    axios.get('http://localhost:3001/events?lat=49.839683&lng=24.029717&distance=1000&sort=time&accessToken=194370554467183|qb0BhT3-pFuCRHDxDRbebnbGlpY')
     .then((response) => {
       console.log(response.data.events);
       var events = response.data.events.map((event) => {
