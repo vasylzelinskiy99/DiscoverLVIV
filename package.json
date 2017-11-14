@@ -1,9 +1,0 @@
-{
-  "name": "your_lviv",
-  "private": true,
-  "dependencies": {
-    "antd": "^2.13.8",
-    "react-router": "^4.2.0",
-    "react-router-dom": "^4.2.2"
-  }
-}
