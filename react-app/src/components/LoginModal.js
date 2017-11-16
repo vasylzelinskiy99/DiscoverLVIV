@@ -11,21 +11,35 @@ class LoginModal extends React.Component {
       visible: true,
     });
   }
-
+  
+  handleCancel = () => {
+    this.setState({ visible: false });
+  }
   render() {
     const { visible, loading } = this.state;
     return (
       <div>
-       <!-- Button type="primary" onClick={this.showModal}>
-          Log in
-        </Button -->
+        <Button type="primary" onClick={this.showModal}>
+          Open
+        </Button>
         <Modal
-          <p>To continue log in with</p>
+          visible={visible}
+          title="Logging in"
+          onCancel={this.handleCancel}
+          footer={null}
+        > 
+          <p>For this action You should log in with</p>
+          <br />
+          <div className="LoginButtons">
+          <Button type="primary" value="large" icon="">Facebook</Button>
+          <br />
+          <br />
+          <Button type="primary" value="large" icon="">Gmail</Button>
+          </div>
         </Modal>
-        <LoginButtons/>
       </div>
     );
   }
 }
 
-ReactDOM.render(<LoginModal />);
+ReactDOM.render(<LoginModal />, login);
