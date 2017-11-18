@@ -10,7 +10,7 @@ const MenuItemGroup = Menu.ItemGroup;
 
 export default class TopBar extends React.Component {
   state = {
-      showLogin:true
+      showLogin:false
     }
 
   showLogin(){

@@ -16,24 +16,24 @@ export default class EventsListItem extends React.Component {
       <div className="blur" style={{background: 'url('+this.props.img+')'}}></div>
         <div className='event_description__text'>{this.props.description}
         </div>
-        <div class="info-table">
-          <meta itemprop="endDate" content="2017-11-05 06:00:00"/>
-            <table class="info-table__table">
+        <div className="info-table">
+          <meta itemProp="endDate" content="2017-11-05 06:00:00"/>
+            <table className="info-table__table">
               <tbody>
-                <tr itemprop="location" itemscope="" itemtype="https://schema.org/Place" class="info-table__row">
-                  <td itemprop="name" class="info-table__cell event__info-place" colspan="2">
+                <tr itemProp="location" itemType="https://schema.org/Place" className="info-table__row">
+                  <td itemProp="name" className="info-table__cell event__info-place" itemSpan="2">
                         Standart</td>
                     </tr>
-                    <tr itemprop="startDate" content="2017-11-04 20:00:00" class="info-table__row">
-                      <td class="info-table__cell event__info-date">
-                        <span class="event__info-day">{EventDate.getDate()}</span>
-                        <span class="event__info-month">{EventDate.getMonth()},<br/></span>
+                    <tr itemProp="startDate" content="2017-11-04 20:00:00" className="info-table__row">
+                      <td className="info-table__cell event__info-date">
+                        <span className="event__info-day">{EventDate.getDate()}</span>
+                        <span className="event__info-month">{EventDate.getMonth()},<br/></span>
                         {EventDate.getDay()}
                       </td>
-                      <td class="info-table__cell event__table-cell event__info-date_mobile">
-                        <span class="event__info-day">4/11 СБ</span>
+                      <td className="info-table__cell event__table-cell event__info-date_mobile">
+                        <span className="event__info-day">4/11 СБ</span>
                       </td>
-                      <td class="info-table__cell event__info-time">
+                      <td className="info-table__cell event__info-time">
                         {time}
                       </td>
                     </tr>
