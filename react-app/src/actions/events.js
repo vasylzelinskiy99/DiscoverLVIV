@@ -23,8 +23,10 @@ export function fetchEvents(filter) {
 
 
 export function receiveEvents(response) {
-  var events = response.data.events.map((event) => {
-    return (<Col key={event.id} span={6} style={{
+  var events = []
+
+  response.data.events.map((event) => {
+    events.push(<Col key={event.id} span={6} style={{
         margin: '1em 0'
       }}>
       <Link to={{
