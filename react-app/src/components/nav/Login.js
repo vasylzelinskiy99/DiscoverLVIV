@@ -24,12 +24,12 @@ export default class Login extends React.Component {
       <div>
         <Modal
           visible={this.state.visible}
-          title="Loggin in"
+          title="Log In"
           onCancel={this.handleCancel}
           footer={null}
         >
           <p>For this action You should log in with</p>
-          <br />
+          <br/>
           <div className="LoginButtons">
           <Button type="primary" value="large" icon="">Facebook</Button>
           <br />
