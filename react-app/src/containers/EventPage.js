@@ -1,6 +1,7 @@
 import React, {PropTypes} from 'react';
 import {Col, Row, Tag, Icon} from 'antd';
 import Comments from './Comments'
+import {Rate} from './Rate'
 
 export default class EventPage extends React.Component {
   render() {
@@ -16,11 +17,7 @@ export default class EventPage extends React.Component {
         <Col sm={{span:10,push:2}} class="event-description">
           <h1>Event Title</h1>
           <div className="stars">
-          <Icon type="star" style={{fontSize:'25px',color:'gold'}}/>
-          <Icon type="star" style={{fontSize:'25px',color:'gold'}}/>
-          <Icon type="star" style={{fontSize:'25px',color:'gold'}}/>
-          <Icon type="star" style={{fontSize:'25px',}}/>
-          <Icon type="star" style={{fontSize:'25px',}}/>
+          <Rate/>
           </div>
           <div className="details">
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
