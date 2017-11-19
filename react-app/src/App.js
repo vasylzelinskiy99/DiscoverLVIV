@@ -14,7 +14,7 @@ class App extends Component {
         <Layout>
           <Switch>
             <Route exact path='/' component={Home}/>
-            <Route exact path='/event' component={EventPage}/>
+            <Route exact path='/event:id' component={EventPage}/>
           </Switch>
         </Layout>
       </ScrollToTop>

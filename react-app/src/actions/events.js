@@ -18,10 +18,8 @@ export function fetchEvents(filter) {
         .then((response) => {
           window.localStorage.removeItem('apiData')
           window.localStorage.setItem('apiData',JSON.stringify(response))
-          console.log(response);
           return dispatch(receiveEvents(response))
         })
-        console.log(JSON.parse(apiData));
       return dispatch(receiveEvents(JSON.parse(apiData)))
     }
     else{
@@ -44,10 +42,8 @@ export function receiveEvents(response) {
     events.push(<Col key={event.id} span={6} style={{
         margin: '1em 0'
       }}>
-      <Link to={{
-          pathname: '/event'
-        }}>
-        <EventsListItem id={event.id} title={event.name} description={event.description} img={event.coverPicture} place={event.place.name} time={event.startTime}/>
+      <Link to={'/event'+event.id }>
+        <EventsListItem title={event.name} description={event.description} img={event.coverPicture} place={event.place.name} time={event.startTime}/>
         </Link>
     </Col>)
 
