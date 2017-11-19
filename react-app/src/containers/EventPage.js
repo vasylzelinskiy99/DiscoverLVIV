@@ -1,7 +1,7 @@
 import React, {PropTypes} from 'react';
 import {Col, Row, Tag, Icon} from 'antd';
 import Comments from './Comments'
-//title={event.name} description={event.description} img={event.coverPicture} place={event.place.name} time={event.startTime}
+import {Rate} from './Rate'
 
 export default class EventPage extends React.Component {
   render() {
@@ -23,13 +23,7 @@ export default class EventPage extends React.Component {
 
             <Col sm={{span:10,push:2}} class="event-description">
               <h1>{singleEvent.name}</h1>
-              <div className="stars">
-              <Icon type="star" style={{fontSize:'25px',color:'gold'}}/>
-              <Icon type="star" style={{fontSize:'25px',color:'gold'}}/>
-              <Icon type="star" style={{fontSize:'25px',color:'gold'}}/>
-              <Icon type="star" style={{fontSize:'25px',}}/>
-              <Icon type="star" style={{fontSize:'25px',}}/>
-              </div>
+              <Rate/>
               <div className="details">
                 <p>{singleEvent.description}</p>
                 <div className="info-table">
