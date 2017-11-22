@@ -18,7 +18,8 @@ class App extends Component {
           </Switch>
         </Layout>
       </ScrollToTop>
-    </BrowserRouter>);
+    </BrowserRouter>
+  );
 
   }
 }

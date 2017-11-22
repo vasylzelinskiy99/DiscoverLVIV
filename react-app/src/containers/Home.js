@@ -1,25 +1,15 @@
-import React, {PropTypes} from 'react';
+import React, {PropTypes, Component} from 'react';
 import { Menu, Icon} from 'antd';
 import {TopBanner} from './TopBanner'
-import CategoriesMenu from './CategoriesMenu'
-import PostsList from './PostsList'
-const SubMenu = Menu.SubMenu;
-const MenuItemGroup = Menu.ItemGroup;
+import PostsProvider from './PostsProvider'
 
-export default class Home extends React.Component {
-  state = {
-    current: 'mail',
-  }
+export default class Home extends Component {
   render() {
     return (
       <div>
       <TopBanner/>
-      <CategoriesMenu/>
-      <PostsList/>
+      <PostsProvider/>
       </div>
     );
   }
 }
-
-Home.propTypes = {
-};

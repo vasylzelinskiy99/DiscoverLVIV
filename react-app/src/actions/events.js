@@ -1,8 +1,7 @@
 import React, {PropTypes} from 'react';
-import {Link} from 'react-router-dom'
-import {Card, Col, Row} from 'antd';
 import axios from 'axios'
-import EventsListItem from '../containers/EventsListItem'
+import _ from 'lodash'
+import uniq from 'lodash'
 
 export const FETCH_EVENTS = 'FETCH_EVENTS'
 export const RECEIVE_EVENTS = 'RECEIVE_EVENTS'
@@ -37,21 +36,11 @@ export function fetchEvents(filter) {
 
 
 export function receiveEvents(response) {
-  var events = []
-  response.data.events.map((event) => {
-    events.push(<Col key={event.id} span={6} style={{
-        margin: '1em 0'
-      }}>
-      <Link to={'/event'+event.id }>
-        <EventsListItem title={event.name} description={event.description} img={event.coverPicture} place={event.place.name} time={event.startTime}/>
-        </Link>
-    </Col>)
-
-  })
+  var events = response.data.events
     return {
         type: RECEIVE_EVENTS,
         payload: {
-            events: events
+            events: _.uniq(events).slice(1,10)
         }
     };
 }

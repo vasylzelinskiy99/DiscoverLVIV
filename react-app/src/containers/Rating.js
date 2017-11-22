@@ -2,7 +2,7 @@
 import React, {PropTypes} from 'react';
 import { Rate } from 'antd';
 
-class Rate extends React.Component {
+export default class Rating extends React.Component {
   state = {
     value: 3,
   }
@@ -19,6 +19,3 @@ class Rate extends React.Component {
     );
   }
 }
-
-Rate.propTypes = {
-};

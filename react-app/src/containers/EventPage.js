@@ -1,7 +1,7 @@
 import React, {PropTypes} from 'react';
 import {Col, Row, Tag, Icon} from 'antd';
 import Comments from './Comments'
-import {Rate} from './Rate'
+import Rating from './Rating'
 
 export default class EventPage extends React.Component {
   render() {
@@ -23,7 +23,7 @@ export default class EventPage extends React.Component {
 
             <Col sm={{span:10,push:2}} class="event-description">
               <h1>{singleEvent.name}</h1>
-              <Rate/>
+              <Rating/>
               <div className="details">
                 <p>{singleEvent.description}</p>
                 <div className="info-table">

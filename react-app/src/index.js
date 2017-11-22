@@ -7,6 +7,7 @@ import { createStore } from 'redux';
 import configureStore from './store';
 import * as firebase from 'firebase';
 
+
 var config = {
     apiKey: "AIzaSyDJ3juiEpQYskiFVqIHmkMhSt5G8iSD45k",
     authDomain: "discoverlviv-de929.firebaseapp.com",
