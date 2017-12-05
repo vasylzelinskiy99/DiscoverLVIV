@@ -1,0 +1,67 @@
+{"data":
+  {"events":[
+    {"id":"1",
+      "name":"Am 9. April findet der erste solo Konzert Nothing But Thieves statt!",
+      "type":"public",
+      "coverPicture":"https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
+      "profilePicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+      "description":"Die britische Band Nothing But Thieves veröffentlichte 2015
+      ihr erstes Album, schaffte es aber bereits, Muse, Arcade Fire zu eröffnen
+      und beim U-Park Festival und Atlas Weekend in der Ukraine aufzutreten.
+      Auch die Musiker wurden in den Dreharbeiten zu ihren Videos in Kiew gefangen.
+      Die Clips Horror und Sorry lesen deutlich die heimischen Horizonte. \n\n
+In Bezug auf den Namen Broken Machine Album ist sehr durchdacht und integral.
+Zum Beispiel war ich nur ein Kind und ich bin nicht von Design gemacht wundere
+mich über die Existenz Gottes, andeutend, dass Religion eine große Fiktion ist. \n\n
+Starke, vielschichtige und konzeptionelle Aufzeichnung. Dies ist der Verdienst
+des Produzenten Mike Crossi (Twenty One Pilot und Arctic Monkeys), der sein
+Geschäft kennt und seinen Status bestätigt, und das Verdienst der Gruppe selbst,
+die ernsthaft an die Arbeit herangegangen ist. Diesmal hat es nicht funktioniert.
+In den ersten Verkaufswochen stieg Broken Machine auf den zweiten Platz der
+britischen Album-Charts. Natürlich können Sie eine solche Veröffentlichung nicht
+verpassen.",
+      "distance":"1934",
+      "startTime":"2018-04-09T18:00:00+0200",
+      "endTime":"2018-0401:00:00+0200",
+      "timeFromNow":82212,
+      "isCancelled":false,
+      "isDraft":false,
+      "category":"night life",
+      "place":{"id":"165164907333772",
+        "name":"Night club Malevich",
+        "location":{
+          "city":"Lviv",
+          "country":"Ukraine",
+          "latitude":49.82239443,
+          "longitude":24.03263881,
+          "street":"Chornovola str. 2",
+          "zip":"UA-79011"
+          }
+      },
+      "stats":{
+        "attending":1000,
+        "declined":0,
+        "maybe":102,
+        "noreply":170
+      },
+      "venue":{
+        "id":"165164907333772",
+        "name":"Night club Malevich",
+        "about":null,
+        "emails":["malevich@gmail.com","malevich@gmail.com"],
+  "coverPicture":"https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
+  "profilePicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+  "category":"Night Club",
+  "categoryList":["Profit Organization"],
+  "location":{
+    "city":"Lviv",
+    "country":"Ukraine",
+    "latitude":49.82239443,
+    "longitude":24.03263881,
+    "street":"Chornovola str. 2",
+    "zip":"UA-79011"
+    }
+    }
+  }
+ ]}
+}
