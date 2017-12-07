@@ -1,0 +1,249 @@
+{"data":
+  {"events":[
+    {"id":"1",
+      "name":"9 квітня у Львові вперше відбудеться сольний концерт Nothing But Thieves",
+      "type":"public",
+      "coverPicture":"https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
+      "profilePicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+      "description":" Британський гурт Nothing But Thieves випустив свій перший альбом в 2015 році, але вже встиг побувати на розігріві у Muse, Arcade Fire і виступити в Україні на U-Park Festival і Atlas Weekend. Також музикантів впіймали на зйомках відео в Києві, а в кліпі на пісню Sorry помітні знайомі краєвиди.\n\n Щодо назви Broken Machine альбом дуже цілісний та продуманий. Тема «зламаної машини» проектується на релігію, політику, соціальне та особисте життя. Наприклад, I Was Just a Kid і I’m Not Made by Design ставить перед собою питання існування Бога, натякаючи, що релігія – одна велика вигадка.\n\n  Broken Machine – сильна, многогранна та концептуальна платівка. У цьому є заслуга як і продюсера Майка Кросі (який знається на своїй справі та підтверджує свій статус), так і  самого гурту, який серйозно підійшов до роботи і уникнув відомого  «синдрому другого альбому». Уже за перші тижні продажу Broken Machine зайняв друге місце в британскому альбомному чарті. Очевидно, що такий реліз не можна пропустити.",
+      "distance":"1934",
+      "startTime":"2018-04-09T18:00:00+0200",
+      "endTime":"2018-0401:00:00+0200",
+      "timeFromNow":82212,
+      "isCancelled":false,
+      "isDraft":false,
+      "category":"night life",
+      "place":{"id":"165164907333772",
+        "name":"Нічний клуб Malevich",
+        "location":{
+          "city":"Lviv",
+          "country":"Ukraine",
+          "latitude":49.82239443,
+          "longitude":24.03263881,
+          "street":"Chornovola str. 2",
+          "zip":"UA-79011"
+          }
+      },
+      "stats":{
+        "attending":1000,
+        "declined":0,
+        "maybe":102,
+        "noreply":170
+      },
+      "venue":{
+        "id":"165164907333772",
+        "name":"Нічний клуб Malevich",
+        "about":null,
+        "emails":["malevich@gmail.com","malevich@gmail.com"],
+  "coverPicture":"https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
+  "profilePicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+  "category":"Night Club",
+  "categoryList":["Profit Organization"],
+  "location":{
+    "city":"Lviv",
+    "country":"Ukraine",
+    "latitude":49.82239443,
+    "longitude":24.03263881,
+    "street":"Chornovola str. 2",
+    "zip":"UA-79011"
+    }
+    }
+    },
+    {"id":"2",
+      "name":"Резиденція Святого Миколая",
+      "type":"public",
+      "coverPicture":"https://moemisto.ua/uploads/media/event/0002/45/thumb_144354_event_content_photo.jpeg?1511774531",
+      "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjV59aA2_LXAhXNZ1AKHYfBDKoQjRwIBw&url=http%3A%2F%2Fzerkalo.mk.ua%2Fnovini%2Fkak-nikolaev-gotovitsya-vstretit-zimnie-prazdniki-10-dekabrya-v-gorode-otkroetsya-ledovyj-katok-i-chast-attrakcionov.html&psig=AOvVaw1eN7lRmw3jxe8sMch0C0yD&ust=1512557775904520",
+      "description":"У казковій резиденції кожен зможе особисто зустрітись із Чудотворцем, отримати солодкий подарунок та зробити незабутнє фото на згадку.\n\n 'Море позитивного настрою і святкові емоції зустрічі зафіксуємо миттєвим подарунковим фото. Правдиві костюми, чарівні декорації і справжній дух свята змушують повірити в казку навіть дорослих. Саме час готувати листа до Святого!', - додають організатори.\n\n  До слова, батьки можуть переказати через помічників Миколая настанови для дітей, а також мають можливість наперед передати власний подарунок, який Чудотворець особисто вручить дитині.",
+      "distance":"1934",
+      "startTime":"2017-12-26T12:00:00+0200",
+      "endTime":"2017-12-26T23:00:00+0200",
+      "timeFromNow":82212,
+      "isCancelled":false,
+      "isDraft":false,
+      "category":"family",
+      "place":{"id":"165164907333772",
+        "name":"Площа перед Оперним театром",
+        "location":{
+          "city":"Lviv",
+          "country":"Ukraine",
+          "latitude":49.82239443,
+          "longitude":24.03263881,
+          "street":"Svobody avenue 28",
+          "zip":"UA-79011"
+          }
+      },
+      "stats":{
+        "attending":1000,
+        "declined":0,
+        "maybe":102,
+        "noreply":170
+      },
+      "venue":{
+        "id":"165164907333772",
+        "name":"Площа перед оперним театром",
+        "about":null,
+        "emails":["square.com","square@gmail.com"],
+  "coverPicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+  "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjV59aA2_LXAhXNZ1AKHYfBDKoQjRwIBw&url=http%3A%2F%2Fzerkalo.mk.ua%2Fnovini%2Fkak-nikolaev-gotovitsya-vstretit-zimnie-prazdniki-10-dekabrya-v-gorode-otkroetsya-ledovyj-katok-i-chast-attrakcionov.html&psig=AOvVaw1eN7lRmw3jxe8sMch0C0yD&ust=1512557775904520",
+  "category":"Nonprofit Organization",
+  "categoryList":["Nonprofit Organization"],
+  "location":{
+    "city":"Lviv",
+    "country":"Ukraine",
+    "latitude":49.82239443,
+    "longitude":24.03263881,
+    "street":"Svobody avenue 28",
+    "zip":"UA-79011"
+    }
+    }
+    },
+    {"id":"3",
+      "name":"Казкове зимове містечко у Львові",
+      "type":"public",
+      "coverPicture":"https://moemisto.ua/uploads/media/event/0002/44/thumb_143731_event_content_photo.jpeg?1511424056",
+      "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=https%3A%2F%2Fwww.pinterest.com%2Fsweetonsweets%2Fcarousels%2F&psig=AOvVaw1aYoUkVgjEcTT-7VSI6vsa&ust=1512557130024471",
+      "description":"Подвір'я Палацу Потоцьких перетворять на казкове зимове містечко. Воно проходитиме у центрі Львова з 28 грудня до 8 січня. Початок - о 12.00.\n\n На відвідувачів очікують засніжені лабіринти, яскраві зимові атракціони, різдвяні смаколики, казкові вистави та ігри з аніматорами.\n\n  'Частину містечка перетворять на живу казку з декораціями, де кожен маленький гість зможе стати героєм', - додають організатори.\n\n У казковому містечку будуть розваги і для дорослих. Там щодня з 19.00 год. проходитимуть виступи кавер-гуртів та частуватимуть гарячими запашними напоями.",
+      "distance":"1934",
+      "startTime":"2017-12-25T12:00:00+0200",
+      "endTime":"2018-01-19T00:00:00+0200",
+      "timeFromNow":82212,
+      "isCancelled":false,
+      "isDraft":false,
+      "category":"family",
+      "place":{"id":"165164907333772",
+        "name":"Палац Потоцьких",
+        "location":{
+          "city":"Lviv",
+          "country":"Ukraine",
+          "latitude":49.82239443,
+          "longitude":24.03263881,
+          "street":"Kopernika str. 15",
+          "zip":"UA-79011"
+          }
+      },
+      "stats":{
+        "attending":1000,
+        "declined":0,
+        "maybe":102,
+        "noreply":170
+      },
+      "venue":{
+        "id":"165164907333772",
+        "name":"Палац потоцьких",
+        "about":null,
+        "emails":["palace@gmail.com","palace@gmail.com"],
+  "coverPicture":"https://moemisto.ua/uploads/media/event/0002/44/thumb_143731_event_content_photo.jpeg?1511424056",
+  "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=https%3A%2F%2Fwww.pinterest.com%2Fsweetonsweets%2Fcarousels%2F&psig=AOvVaw1aYoUkVgjEcTT-7VSI6vsa&ust=1512557130024471",
+  "category":"Nonprofit Organization",
+  "categoryList":["Nonprofit Organization"],
+  "location":{
+    "city":"Lviv",
+    "country":"Ukraine",
+    "latitude":49.82239443,
+    "longitude":24.03263881,
+    "street":"Kopernika str. 15",
+    "zip":"UA-79011"
+    }
+    }
+    },
+    {"id":"4",
+      "name":"Поза межами кольору",
+      "type":"public",
+      "coverPicture":"https://i2.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Zolota-seredina.jpg?resize=696%2C680",
+      "profilePicture":"https://i0.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Misto-spit.jpg?resize=696%2C481",
+      "description":"«Поза межами кольору» - так називається виставка, яку презентує у Львівському музеї історії релігії майстер монументального живопису і вітражу Ігор Бадяк.\n\n Ігор Бадяк вивчав художній розпис у Львівському державному коледжі декоративного і ужиткового мистецтва імені І. Труша. Закінчив Львівську національну академію мистецтв (кафедра монументального живопису). Відтоді (з 1992 року) безперервно працює в галузях станкового, монументального живопис (вітраж, мозаїка). Ігор Бадяк – учасник загальноукраїнських і міжнародних пленерів. Його роботи є у музейних і приватних колекціях Польщі, Словаччини, Румунії, Швейцарії, Франції, Чорногорії, Канади, США, Німеччини, інших країнах.\n\n  В експозиції музею Ігор Бадяк представлятиме полотна, об’єднані спільною назвою 'Поза межами кольору'. Це близько тридцяти робіт, виконаних у техніці безпредметного, абстрактного мистецтва: 'Місто спить', 'Чорне море', 'Золота середина', 'Вітер. Північ' тощо. \n\n Щороку влітку митець відвідує пленери, набирається вражень, емоцій, досвіду, а згодом зимовими вечорами у своїй майстерні на папері відтворює побачене, шукаючи нову, нетрадиційну образотворчу мову. За допомогою геометричних фігур, ліній, просторових тіл, плям художник демонструє багатогранність свого таланту й неординарність мислення. Роботи Ігоря Бадяка спонукають до інтелектуальних роздумів, творчого мислення. Водночас автор демонструє постійні пошуки нових виражальних форм та бачення світу.",
+      "distance":"1934",
+      "startTime":"2017-12-25T12:00:00+0200",
+      "endTime":"2017-12-31T00:00:00+0200",
+      "timeFromNow":82212,
+      "isCancelled":false,
+      "isDraft":false,
+      "category":"exhibition",
+      "place":{"id":"165164907333772",
+        "name":"Львівський музей історії релігії",
+        "location":{
+          "city":"Lviv",
+          "country":"Ukraine",
+          "latitude":49.82239443,
+          "longitude":24.03263881,
+          "street":"Museyna str. 1",
+          "zip":"UA-79011"
+          }
+      },
+      "stats":{
+        "attending":1000,
+        "declined":0,
+        "maybe":102,
+        "noreply":170
+      },
+      "venue":{
+        "id":"165164907333772",
+        "name":"Львівський музей історії релігії",
+        "about":null,
+        "emails":["museum@gmail.com","museum@gmail.com"],
+  "coverPicture":"https://i2.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Zolota-seredina.jpg?resize=696%2C680",
+  "profilePicture":"https://i0.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Misto-spit.jpg?resize=696%2C481",
+  "category":"Nonprofit Organization",
+  "categoryList":["Nonprofit Organization"],
+  "location":{
+    "city":"Lviv",
+    "country":"Ukraine",
+    "latitude":49.82239443,
+    "longitude":24.03263881,
+    "street":"Museyna str. 1",
+    "zip":"UA-79011"
+    }
+    }
+    },
+    {"data":
+      {"events":[
+        {"id":"5",
+          "name":"Новорічний святковий Гала-Концерт",
+          "type":"public",
+          "coverPicture":"https://media.timeout.com/images/12320/image.jpg",
+          "profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+          "description":"Львівська обласна філармонія представляє!\n\n Твори Вольфганга Амадея Моцарта, Джузепе Верді, Жоржа Бізе, Франца Легара, Йоганна Штрауса.\n\n  Академічний симфонічний оркестр Львівської філармонії, Тарас Криса – диригент.",
+          "distance":"1934",
+          "startTime":"2017-12-27T19:00:00+0200",
+          "endTime":"2017-12-27T22:00:00+0200",
+          "timeFromNow":82212,
+          "isCancelled":false,
+          "isDraft":false,
+          "category":"other",
+          "place":{"id":"165164907333772",
+            "name":"Львівська обласна філармонія",
+            "location":{
+              "city":"Lviv",
+              "country":"Ukraine",
+              "latitude":49.82239443,
+              "longitude":24.03263881,
+              "street":"Chaykovskogo str. 7",
+              "zip":"UA-79011"
+              }
+          },
+          "stats":{
+            "attending":1000,
+            "declined":0,
+            "maybe":102,
+            "noreply":170
+          },
+          "venue":{
+            "id":"165164907333772",
+            "name":"Львівська обласна філармонія",
+            "about":null,
+            "emails":["music@gmail.com","music@gmail.com"],
+      "coverPicture":"https://media.timeout.com/images/12320/image.jpg",
+      "profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+      "category":"Philharmonic ",
+      "categoryList":["Profit Organization"],
+      "location":{
+        "city":"Lviv",
+        "country":"Ukraine",
+        "latitude":49.82239443,
+        "longitude":24.03263881,
+        "street":"Chaykovskogo str. 7",
+        "zip":"UA-79011"
+        }
+        }
+        },
