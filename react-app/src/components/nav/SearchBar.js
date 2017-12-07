@@ -1,17 +1,40 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
 import { Input } from 'antd';
-const Search = Input.Search;
+import {search} from '../../actions/search'
+import {connect} from 'react-redux'
 
-export const SearchBar = () => {
-  return (
-    <Search
-    placeholder="input search text"
-    style={{ width: 200,margin:'0 20px' }}
-    onSearch={value => console.log(value)}
-
-  />
-  );
+class SearchBar extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      searchWord:''
+    }
+    this.searchHandler = this.searchHandler.bind(this);
+  }
+  searchHandler = (event) => {
+    event.preventDefault()
+    this.props.search(event.target.value)
+    this.setState({
+      searchWord:event.target.value
+    })
+  }
+  render() {
+    return (
+      <Input
+      placeholder="search"
+      style={{ width: 200,margin:'0 20px' }}
+      onChange={this.searchHandler}
+      />
+    );
+  }
 }
 
-SearchBar.propTypes = {
-};
+function mapStateToProps(state) {
+    return {
+       searchWord:state.search.searchWord
+    };
+}
+
+export default connect(mapStateToProps,
+  {search}
+)(SearchBar);

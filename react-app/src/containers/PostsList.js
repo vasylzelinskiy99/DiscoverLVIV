@@ -7,7 +7,10 @@ import {connect} from 'react-redux';
 import {fetchEvents} from '../actions/events';
 
 export default class PostsList extends React.Component {
-  render(props) {
+  componentWillReceiveProps(nextProps){
+
+  }
+  render() {
     const {fetching} = this.props;
     if (fetching) {
       return (<div>
@@ -22,13 +25,13 @@ export default class PostsList extends React.Component {
         <Row className="events_list" gutter={16} style={{
             padding: '2em 4em'
           }}>
-          {this.props.events.map((event)=>{
-            return(<Col key={event.id} span={6} style={{
+          {this.props.events.map((singleEvent)=>{
+            return(<Col key={singleEvent.id} span={6} style={{
                 margin: '1em 0'
               }}>
-              <Link to={'/event'+event.id }>
-                <EventsListItem title={event.name} description={event.description} img={event.coverPicture} place={event.place.name} time={event.startTime}/>
-                </Link>
+              <Link to={'/event'+singleEvent.id }>
+                <EventsListItem title={singleEvent.name} description={singleEvent.description} img={singleEvent.coverPicture} place={singleEvent.place.name} time={singleEvent.startTime}/>
+              </Link>
             </Col>)
           })}
         </Row>

@@ -1,18 +1,21 @@
-import React, {PropTypes} from 'react';
+import React, {PropTypes} from 'react'
 import CategoriesMenu from './CategoriesMenu'
 import PostsList from './PostsList'
 import {connect} from 'react-redux'
-import { fetchEvents } from '../actions/events';
-import _ from 'lodash';
-import filter from 'lodash'
+import { fetchEvents } from '../actions/events'
+import {search} from '../actions/search'
+import _ from 'lodash'
+import uniq from 'lodash'
 
 
 class PostsProvider extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      fetching: props.fetching,
-      currentlyDisplayed: props.events
+      fetching: true,
+      events: this.props.events,
+      currentlyDisplayed: this.props.events,
+      filter:'ф'
     }
     this.filterPosts = this.filterPosts.bind(this)
   }
@@ -20,16 +23,21 @@ class PostsProvider extends React.Component {
     const {fetchEvents, events} = this.props
     fetchEvents('')
   }
-  filterPosts(filter){
-      let newlyDisplayed = _.filter(this.props.events, oneEvent => oneEvent.name.includes('Бізнес'));
-      this.setState({
-        currentlyDisplayed:newlyDisplayed
-      })
+  filterPosts = (filter) => {
+    let filterWord = this.state.filter
+    let newlyDisplayed = this.state.events.filter((oneEvent) => oneEvent.description.includes(filterWord));
+    console.log(newlyDisplayed);
+    this.setState({
+      currentlyDisplayed: newlyDisplayed,
+      filter: filterWord
+    })
   }
   componentWillReceiveProps(nextProps){
     this.setState({
       fetching: nextProps.fetching,
-      currentlyDisplayed: nextProps.events
+      events:nextProps.events,
+      currentlyDisplayed: nextProps.events,
+      filter:nextProps.searchWord
     })
   }
   render() {
@@ -45,10 +53,11 @@ class PostsProvider extends React.Component {
 function mapStateToProps(state) {
     return {
        fetching:state.events.fetching,
-        events: state.events.events
+        events: state.events.events,
+        searchWord:state.search.searchWord
     };
 }
 
 export default connect(mapStateToProps,
-  {fetchEvents}
+  {fetchEvents,search}
 )(PostsProvider);

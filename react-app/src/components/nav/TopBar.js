@@ -2,21 +2,24 @@ import React, {PropTypes} from 'react';
 import {Link} from 'react-router-dom'
 import { Menu, Button} from 'antd';
 import LanguageSwitcher from './LanguageSwitcher'
-import {SearchBar} from './SearchBar'
+import SearchBar from './SearchBar'
 import {Icon} from 'react-fa'
 import Login from './Login'
 const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;
 
-export default class TopBar extends React.Component {
-  state = {
-      showLogin:false
-    }
-
-  showLogin(){
-    this.setState({showLogin:true})
+ class TopBar extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+        showLogin:false
+      }
+      this.showLogin = this.showLogin.bind(this)
   }
 
+  showLogin() {
+    this.setState(prevState => ({showLogin:true}))
+  }
   render() {
     return (
       <Menu
@@ -35,5 +38,4 @@ export default class TopBar extends React.Component {
   }
 }
 
-TopBar.propTypes = {
-};
+export default TopBar;

@@ -5,16 +5,18 @@ const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;
 
 export default class CategoriesMenu extends React.Component {
-  state = {
-    current: 'all',
-    filter: ''
+  constructor(props) {
+    super(props);
+    this.state = {
+      current: 'all',
+      filter: ''
+    }
   }
   handleClick = (e) => {
     this.setState({
-      current: e.key,
-      filter: e.filter
-    });
-    this.props.filterPosts(this.state.filter)
+      current: e.key
+    })
+    this.props.filterPosts(e.key)
   }
   render() {
     return (
@@ -27,16 +29,16 @@ export default class CategoriesMenu extends React.Component {
         <Menu.Item key="all">
           All
         </Menu.Item>
-        <Menu.Item key="sport" filter="Майстер-клас">
+        <Menu.Item key="a">
           Sport
         </Menu.Item>
-        <Menu.Item key="party" filter="вечеря">
+        <Menu.Item key="вечірка">
             Party
         </Menu.Item>
-        <Menu.Item key="exhibition" filter="Бізнес">
+        <Menu.Item key="виставка">
             Exhibition
         </Menu.Item>
-        <Menu.Item key="science" filter="трактати">
+        <Menu.Item key="наук">
             Science
         </Menu.Item>
       </Menu>

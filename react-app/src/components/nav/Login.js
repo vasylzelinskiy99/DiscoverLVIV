@@ -2,21 +2,20 @@ import React from 'react';
 import { Modal, Button } from 'antd';
 
 export default class Login extends React.Component {
-  state = {
-    visible: this.props.visible
-  }
-  showModal = () => {
-    this.setState({
-      visible: true,
-    });
+  constructor(props) {
+    super(props);
+    this.state = {
+      visible: props.visible
+    }
+    this.handleCancel = this.handleCancel.bind(this)
   }
   handleCancel = () => {
     this.setState({ visible: false });
   }
   componentWillReceiveProps(nextProps){
     this.setState({
-      visible: true,
-    });
+      visible: nextProps.visible
+    })
   }
   render() {
     const { visible} = this.state;
