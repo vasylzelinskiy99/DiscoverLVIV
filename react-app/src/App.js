@@ -1,5 +1,10 @@
 import React, {Component} from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
+import {connect} from 'react-redux'
+import { LocaleProvider } from 'antd';
+import enUS from 'antd/lib/locale-provider/en_US';
+import deDE from 'antd/lib/locale-provider/de_DE';
+import ruRU from 'antd/lib/locale-provider/ru_RU';
 import Layout from './containers/Layout'
 import Home from './containers/Home'
 import EventPage from './containers/EventPage'
@@ -9,6 +14,7 @@ import './App.sass';
 class App extends Component {
   render() {
     return (
+      <LocaleProvider locale={ruRU}>
       <BrowserRouter>
       <ScrollToTop>
         <Layout>
@@ -19,6 +25,7 @@ class App extends Component {
         </Layout>
       </ScrollToTop>
     </BrowserRouter>
+      </LocaleProvider>
   );
 
   }

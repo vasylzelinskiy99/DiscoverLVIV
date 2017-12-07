@@ -16,7 +16,6 @@ const MenuItemGroup = Menu.ItemGroup;
       }
       this.showLogin = this.showLogin.bind(this)
   }
-
   showLogin() {
     this.setState(prevState => ({showLogin:true}))
   }

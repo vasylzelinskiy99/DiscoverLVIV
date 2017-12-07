@@ -10,6 +10,9 @@ export default class PostsList extends React.Component {
   componentWillReceiveProps(nextProps){
 
   }
+  shouldComponentUpdate(){
+    return true
+  }
   render() {
     const {fetching} = this.props;
     if (fetching) {

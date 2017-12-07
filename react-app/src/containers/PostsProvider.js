@@ -4,8 +4,7 @@ import PostsList from './PostsList'
 import {connect} from 'react-redux'
 import { fetchEvents } from '../actions/events'
 import {search} from '../actions/search'
-import _ from 'lodash'
-import uniq from 'lodash'
+import * as eventsDe from '../api/eventsde.json';
 
 
 class PostsProvider extends React.Component {
@@ -21,7 +20,7 @@ class PostsProvider extends React.Component {
   }
   componentWillMount(){
     const {fetchEvents, events} = this.props
-    fetchEvents('')
+    fetchEvents(eventsDe)
   }
   filterPosts = (filter) => {
     let filterWord = this.state.filter
