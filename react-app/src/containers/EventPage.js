@@ -7,7 +7,7 @@ export default class EventPage extends React.Component {
   render() {
     var eventId = this.props.match.params.id
     const apiData = JSON.parse(window.localStorage.getItem('apiData'))
-    var allEvents = apiData.data.events
+    var allEvents = apiData
     return(
     allEvents.map((singleEvent) => {
       if (singleEvent.id === eventId) {

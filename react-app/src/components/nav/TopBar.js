@@ -9,15 +9,16 @@ const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;
 
  class TopBar extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-        showLogin:false
-      }
-      this.showLogin = this.showLogin.bind(this)
-  }
-  showLogin() {
-    this.setState(prevState => ({showLogin:true}))
+   constructor(props) {
+     super(props);
+     this.state = {
+           showLogin:false
+         }
+    this.showLogin = this.showLogin.bind(this)
+   }
+  showLogin(){
+    console.log('show');
+    this.setState({showLogin:true})
   }
   render() {
     return (

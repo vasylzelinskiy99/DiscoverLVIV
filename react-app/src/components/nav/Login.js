@@ -5,10 +5,14 @@ export default class Login extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      visible: props.visible
-    }
-    this.handleCancel = this.handleCancel.bind(this)
+        visible: this.props.visible
+      }
   }
+  showModal = () => {
+     this.setState({
+      visible: true,
+     });
+   }
   handleCancel = () => {
     this.setState({ visible: false });
   }
@@ -18,7 +22,6 @@ export default class Login extends React.Component {
     })
   }
   render() {
-    const { visible} = this.state;
     return (
       <div>
         <Modal
