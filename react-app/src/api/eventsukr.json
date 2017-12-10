@@ -5,7 +5,7 @@
       "type":"public",
       "coverPicture":"https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
       "profilePicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
-      "description":" Британський гурт Nothing But Thieves випустив свій перший альбом в 2015 році, але вже встиг побувати на розігріві у Muse, Arcade Fire і виступити в Україні на U-Park Festival і Atlas Weekend. Також музикантів впіймали на зйомках відео в Києві, а в кліпі на пісню Sorry помітні знайомі краєвиди.\n\n Щодо назви Broken Machine альбом дуже цілісний та продуманий. Тема «зламаної машини» проектується на релігію, політику, соціальне та особисте життя. Наприклад, I Was Just a Kid і I’m Not Made by Design ставить перед собою питання існування Бога, натякаючи, що релігія – одна велика вигадка.\n\n  Broken Machine – сильна, многогранна та концептуальна платівка. У цьому є заслуга як і продюсера Майка Кросі (який знається на своїй справі та підтверджує свій статус), так і  самого гурту, який серйозно підійшов до роботи і уникнув відомого  «синдрому другого альбому». Уже за перші тижні продажу Broken Machine зайняв друге місце в британскому альбомному чарті. Очевидно, що такий реліз не можна пропустити.",
+      "description":"Британський гурт Nothing But Thieves випустив свій перший альбом в 2015 році, але вже встиг побувати на розігріві у Muse, Arcade Fire і виступити в Україні на U-Park Festival і Atlas Weekend. Також музикантів впіймали на зйомках відео в Києві, а в кліпі на пісню Sorry помітні знайомі краєвиди.\n\n Щодо назви Broken Machine альбом дуже цілісний та продуманий. Тема «зламаної машини» проектується на релігію, політику, соціальне та особисте життя. Наприклад, I Was Just a Kid і I’m Not Made by Design ставить перед собою питання існування Бога, натякаючи, що релігія – одна велика вигадка.\n\n  Broken Machine – сильна, многогранна та концептуальна платівка. У цьому є заслуга як і продюсера Майка Кросі (який знається на своїй справі та підтверджує свій статус), так і  самого гурту, який серйозно підійшов до роботи і уникнув відомого  «синдрому другого альбому». Уже за перші тижні продажу Broken Machine зайняв друге місце в британскому альбомному чарті. Очевидно, що такий реліз не можна пропустити.",
       "distance":"1934",
       "startTime":"2018-04-09T18:00:00+0200",
       "endTime":"2018-0401:00:00+0200",
@@ -195,7 +195,399 @@
     "zip":"UA-79011"
     }
     }
+    },
+    {"id":"5",
+      "name":"Новорічний святковий Гала-Концерт",
+      "type":"public",
+      "coverPicture":"https://media.timeout.com/images/12320/image.jpg",
+      "profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+      "description":"Львівська обласна філармонія представляє!\n\n Твори Вольфганга Амадея Моцарта, Джузепе Верді, Жоржа Бізе, Франца Легара, Йоганна Штрауса.\n\n Академічний симфонічний оркестр Львівської філармонії, Тарас Криса – диригент.",
+      "distance":"1934",
+      "startTime":"2017-12-27T19:00:00+0200",
+      "endTime":"2017-12-27T22:00:00+0200",
+      "timeFromNow":82212,
+      "isCancelled":false,
+      "isDraft":false,
+      "category":"other",
+      "place":{"id":"165164907333772",
+        "name":"Львівська обласна філармонія",
+        "location":{
+          "city":"Lviv",
+          "country":"Ukraine",
+          "latitude":49.82239443,
+          "longitude":24.03263881,
+          "street":"Chaykovskogo str. 7",
+          "zip":"UA-79011"
+          }
+      },
+      "stats":{
+        "attending":1000,
+        "declined":0,
+        "maybe":102,
+        "noreply":170
+      },
+      "venue":{
+        "id":"165164907333772",
+        "name":"Львівська обласна філармонія",
+        "about":null,
+        "emails":["music@gmail.com","music@gmail.com"],
+  "coverPicture":"https://media.timeout.com/images/12320/image.jpg",
+  "profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+  "category":"Philharmonic ",
+  "categoryList":["Profit Organization"],
+  "location":{
+    "city":"Lviv",
+    "country":"Ukraine",
+    "latitude":49.82239443,
+    "longitude":24.03263881,
+    "street":"Chaykovskogo str. 7",
+    "zip":"UA-79011"
     }
-    ]
     }
+  },
+  {"id":"6",
+    "name":"Ніч перед Різдвом",
+    "type":"public",
+    "coverPicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BB%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
+    "profilePicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BE%D0%B1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0.jpg",
+    "description":"Музична комедія «Ніч перед Різдвом» створена за мотивами однойменної повісті класика української літератури Миколи Гоголя режисером-постановником, заслуженим артистом України Андрієм Бакіровим.\n\n До яких тільки вигадок не вдаються виконавці, аби створити на сцені чарівну, казкову атмосферу святкової Різдвяної ночі. Тут химерно переплелися давні легенди й картини життя тогочасного українського села, реальне й уявне, фантастичне і комічне. Захоплюючі ритми хореографічних композицій, вражаюча енергетика молодечого завзяття, колоритні сценічні образи, створені яскравим акторським ансамблем, поза сумнівом, справлять глибоке враження на кожного, хто познайомиться з новаційною роботою шевченківців.",
+    "distance":"1934",
+    "startTime":"2018-01-03T19:00:00+0200",
+    "endTime":"2018-01-03T22:00:00+0200",
+    "timeFromNow":82212,
+    "isCancelled":false,
+    "isDraft":false,
+    "category":"other",
+    "place":{"id":"165164907333772",
+      "name":"Львівський театр опери та балету",
+      "location":{
+        "city":"Lviv",
+        "country":"Ukraine",
+        "latitude":49.82239443,
+        "longitude":24.03263881,
+        "street":"Svobody avenue 28",
+        "zip":"UA-79011"
+        }
+    },
+    "stats":{
+      "attending":1000,
+      "declined":0,
+      "maybe":102,
+      "noreply":170
+    },
+    "venue":{
+      "id":"165164907333772",
+      "name":"Львівський театр опери та балету",
+      "about":null,
+      "emails":["theater@gmail.com","theater@gmail.com"],
+"coverPicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BB%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
+"profilePicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BE%D0%B1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0.jpg",
+"category":"Theather",
+"categoryList":["Profit Organization"],
+"location":{
+  "city":"Lviv",
+  "country":"Ukraine",
+  "latitude":49.82239443,
+  "longitude":24.03263881,
+  "street":"Svobody avenue 28",
+  "zip":"UA-79011"
   }
+  }
+},
+{"id":"7",
+  "name":"Інфанта Маргарита",
+  "type":"public",
+  "coverPicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/Margarita5a201e09d5bfa.jpg",
+  "profilePicture":"http://www.matrony.ru/wp-content/uploads/2014/06/7.Diego-Velaskes.-Infanta-Margarita-v-rozovom.-1660.-e1403092217628.jpg",
+  "description":"Портрет Інфанти Маргарити має велику музейну та історичну цінність і дає уяву про високий художній рівень 'золотої доби' іспанського малярства, який приписується Дієго Веласкесу, хоча є інші припущення...\n\n Портрет Інфанти Маргарити (Маргарити Терези) походить з колекції фундаторів музею Богдана та Варвари Ханенків. Картину було придбано 1912 р. у Берліні на аукціонному розпродажі зібрання гамбурзького колекціонера Вебера. На торги твір потрапив після довгого мандрування приватними колекціями. Перші документальні свідоцтва про картину сягають 1827 р., коли вона ще належала іспанському художнику Вікенте Лопесу-і- Портанья та невдовзі потрапила у власність інфанта Іспанії та Португалії Себастьяна Габріеля де Бурбон і де Браганса. У спадкоємців інфанта, які на той час мешкали у Франції, в містечку По, твір у 1891 р. придбав лондонський антикварний дім Колнегі. Однак вже у наступному році портрет було перепродано німецькому консулу Едуарду Фрідріху Веберу.\n\n Увесь цей час картина вважалася портретом іншої принцеси – інфанти Маріанни Терези (1638-1683), старшої дочки Філіпа IV від першого шлюбу. У подальшому вона стала королевою Франції, дружиною Людовіка ХIV. Лише у передвоєнні роки було з’ясовано, що портретована дівчинка – молодша дочка короля, дитя його другої дружини Маріанни Австрійської.",
+  "distance":"1934",
+  "startTime":"2017-12-27T12:00:00+0200",
+  "endTime":"2017-12-27T23:00:00+0200",
+  "timeFromNow":82212,
+  "isCancelled":false,
+  "isDraft":false,
+  "category":"exhibition",
+  "place":{"id":"165164907333772",
+    "name":"Палац Потоцьких",
+    "location":{
+      "city":"Lviv",
+      "country":"Ukraine",
+      "latitude":49.82239443,
+      "longitude":24.03263881,
+      "street":"Kopernika str. 15",
+      "zip":"UA-79011"
+      }
+  },
+  "stats":{
+    "attending":1000,
+    "declined":0,
+    "maybe":102,
+    "noreply":170
+  },
+  "venue":{
+    "id":"165164907333772",
+    "name":"Палац Потоцьких",
+    "about":null,
+    "emails":["palace@gmail.com","palace@gmail.com"],
+"coverPicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/Margarita5a201e09d5bfa.jpg",
+"profilePicture":"http://www.matrony.ru/wp-content/uploads/2014/06/7.Diego-Velaskes.-Infanta-Margarita-v-rozovom.-1660.-e1403092217628.jpg",
+"category":"Nonprofit Organization",
+"categoryList":["Nonprofit Organization"],
+"location":{
+"city":"Lviv",
+"country":"Ukraine",
+"latitude":49.82239443,
+"longitude":24.03263881,
+"street":"Kopernika str. 15",
+"zip":"UA-79011"
+}
+}
+},
+{"id":"8",
+  "name":"Різдвяна історія",
+  "type":"public",
+  "coverPicture":"https://c.tadst.com/gfx/750w/christmas.jpg?1",
+  "profilePicture":"https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company255/events-1218-450600-5277-kb.jpg?itok=o-gxNE6B",
+  "description":"Лілія Вікарук – автор проекту, мама.\n\n Тріо бандуристок «Львів’янки» – Ангели.\n\n Станіслав Гоян – Ослик.\n\n Оксана Ковальова – Овечка.\n\n Михайло Гриньо – Верблюд.\n\n Ансамбль 'Небесні крила' – малі колядники.\n\n Остап Грудовий – Михайлик.\n\n Соломія Яковенко – Соломійка.\n\n Любов Фітьо – режисер-постановник.\n\n",
+  "distance":"1934",
+  "startTime":"2017-12-26T19:00:00+0200",
+  "endTime":"2017-12-26T22:00:00+0200",
+  "timeFromNow":82212,
+  "isCancelled":false,
+  "isDraft":false,
+  "category":"other",
+  "place":{"id":"165164907333772",
+    "name":"Львівська обласна філармонія",
+    "location":{
+      "city":"Lviv",
+      "country":"Ukraine",
+      "latitude":49.82239443,
+      "longitude":24.03263881,
+      "street":"Chaykovskogo str. 7",
+      "zip":"UA-79011"
+      }
+  },
+  "stats":{
+    "attending":1000,
+    "declined":0,
+    "maybe":102,
+    "noreply":170
+  },
+  "venue":{
+    "id":"165164907333772",
+    "name":"Львівська обласна філармонія",
+    "about":null,
+    "emails":["music@gmail.com","music@gmail.com"],
+"coverPicture":"https://media.timeout.com/images/12320/image.jpg",
+"profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+"category":"Philharmonic ",
+"categoryList":["Profit Organization"],
+"location":{
+"city":"Lviv",
+"country":"Ukraine",
+"latitude":49.82239443,
+"longitude":24.03263881,
+"street":"Chaykovskogo str. 7",
+"zip":"UA-79011"
+}
+}
+},
+{"id":"9",
+  "name":"Виставка 'Портрет міста'",
+  "type":"public",
+  "coverPicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+  "profilePicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+  "description":"Виставка покликана на прикладі творів мистецтва окресленого часу представити образ Львова в один із найважливіших відрізків його історії – період після першого поділу Речі Посполитої (1772), коли Галичина переходить у склад Австрійської імперії. Місто стає столицею Королівства Галичини і Володимирії, утвореного на теренах колишнього Галицького князівства. Адміністративна, освітня, релігійна та селянська реформи, які проводять в Галичині австрійські правителі Марія Терезія (1717 – 1780) та Йосиф ІІ (1741 – 1790), змінюють обличчя Львова та його життєвий уклад.\n\n Представлені на виставці пам’ятки (види Львова та портрети львів’ян), що відносяться до кінця ХVІІІ – першої половини ХІХ ст. й належать тогочасним митцям, які працювали у Львові й стали очевидцями подій, є найкращими автентичними документами своєї епохи. \n\n На виставці буде репрезентовано твори Йозефа Пічмана, Кароля Швейкарта, Алойзи Рехана, Яна Машковського, Мартина Яблонського, Юліуша Коссака, Карла Ауера, Карла Аренда та багатьох інших. Ретроспективний характер її експозиції дозволить повернути глядача в минуле, занурити в атмосферу тодішнього Львова, відчути його дух, настрій, дізнатися про життя його мешканців та їх звичаї, культуру, мистецтво, освіту, політику. До експозиції виставки ввійдуть твори, що належать Національному музею у Львові імені Андрея Шептицького, Львівській національній галереї мистецтв ім. Б. Возницького, Львівській національній науковій бібліотеці України ім. В. Стефаника, Львівському історичному музею, Музею етнографії та художнього промислу Інституту народознавства НАН України та приватним колекціонерам.",
+  "distance":"1934",
+  "startTime":"2017-12-26T12:00:00+0200",
+  "endTime":"2018-02-06T22:00:00+0200",
+  "timeFromNow":82212,
+  "isCancelled":false,
+  "isDraft":false,
+  "category":"exhibition",
+  "place":{"id":"165164907333772",
+    "name":"Національний музей імені Андрея Шептицького",
+    "location":{
+      "city":"Lviv",
+      "country":"Ukraine",
+      "latitude":49.82239443,
+      "longitude":24.03263881,
+      "street":"Svobody avenue 20",
+      "zip":"UA-79011"
+      }
+  },
+  "stats":{
+    "attending":1000,
+    "declined":0,
+    "maybe":102,
+    "noreply":170
+  },
+  "venue":{
+    "id":"165164907333772",
+    "name":"Національний музей імені Андрея Шептицького",
+    "about":null,
+    "emails":["museum@gmail.com","museum@gmail.com"],
+"coverPicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+"profilePicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+"category":"Museum",
+"categoryList":["Profit Organization"],
+"location":{
+"city":"Lviv",
+"country":"Ukraine",
+"latitude":49.82239443,
+"longitude":24.03263881,
+"street":"Svobody avenue 20",
+"zip":"UA-79011"
+}
+}
+},
+{"id":"10",
+  "name":"Стежечка Святого Миколая",
+  "type":"public",
+  "coverPicture":"https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company131/events-763-tyug-12469-kb.png?itok=mPsTzZhV",
+  "profilePicture":"https://afisha.lviv.ua/sites/image.life/users/virtual.ua.jpg",
+  "description":"Режисер-постановник Мисак Ю. О.\n\n Художник-постановник Зав’ялова Д. А.\n\n Композитор з.д.м. Саєнко Ю. Р.\n\n Балетмейстер Шіт Т.\n\n Асистент режисера Гулюк І. І.\n\n З початком зими всі чекають святого Миколая, котрий приходить із Ангеликами до нас щороку, приносячи радість та подарунки – хто на що заслужив. Проте не всі знають, що для того, аби Миколай спустився з небес, зірки вказують йому шлях на землю. Чи ж зможе дістатися до нас Миколай, якщо хитрий Чорт, змовившись із Вовком, сховає зірки? Звичайно, що зможе, бо в таку чарівну ніч навіть Зайці можуть стати хоробрими (якщо зуміють бути дружніми), а світло щирих сердець здатне світити сильніше, ніж зірки.",
+  "distance":"1934",
+  "startTime":"2017-12-27T12:00:00+0200",
+  "endTime":"2018-12-27T22:00:00+0200",
+  "timeFromNow":82212,
+  "isCancelled":false,
+  "isDraft":false,
+  "category":"other",
+  "place":{"id":"165164907333772",
+    "name":"Перший театр",
+    "location":{
+      "city":"Lviv",
+      "country":"Ukraine",
+      "latitude":49.82239443,
+      "longitude":24.03263881,
+      "street":"Gnatyuka str. 11",
+      "zip":"UA-79011"
+      }
+  },
+  "stats":{
+    "attending":1000,
+    "declined":0,
+    "maybe":102,
+    "noreply":170
+  },
+  "venue":{
+    "id":"165164907333772",
+    "name":"Перший театр",
+    "about":null,
+    "emails":["theatre@gmail.com","theatre@gmail.com"],
+"coverPicture":"https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company131/events-763-tyug-12469-kb.png?itok=mPsTzZhV",
+"profilePicture":"https://afisha.lviv.ua/sites/image.life/users/virtual.ua.jpg",
+"category":"Theatre",
+"categoryList":["Profit Organization"],
+"location":{
+"city":"Lviv",
+"country":"Ukraine",
+"latitude":49.82239443,
+"longitude":24.03263881,
+"street":"Gnatyuka str. 11",
+"zip":"UA-79011"
+}
+}
+},
+{"id":"11",
+  "name":"Грандіозне шоу для всієї родини 'Холодне серце'",
+  "type":"public",
+  "coverPicture":"http://www.susieseiter.com/wp-content/uploads/2017/05/Frozen-Live.jpeg",
+  "profilePicture":"https://tms.net.ua/files/2017/12/07/poster_C_UH-_G.jpg",
+  "description":"'Холодне серце' - масштабна постановка від одеського продюсерського центру 'Made in odessa' - неймовірна вистава, створена за мотивами улюбленого мультфільму дітей всього світу, і самого касового за всю історію компанії 'Walt Disney'. Історія здивує новими фактами: появою героїв, з якими глядач не був знайомий раніше і несподіваними поворотами сюжету, об'єднаними в оригінальний, наповнений чарівними подіями сценарій.\n\n 'Холодне серце' - це яскраве, захоплююче, у своєму роді унікальне шоу для всієї родини! Масштабність постановки, неймовірні пригоди, більше 40 персонажів, грандіозні декорації, яскраві костюми, чудова музика, захоплююче вогняне шоу, запаморочливі акробатичні трюки, сучасна хореографія - дарують глядачам відчуття свята! Дива у вигляді спецефектів та інтерактивні моменти, під час яких гості беруть безпосередню участь у низці фантастичних подій, призводять в невимовний захват дітей і вражають дорослих!\n\n Вистава має успіх не тільки в Україні, але і за кордоном. Проект 'Холодне серце' і всі його учасники отримали іменні сертифікати подяки, нагороду за участь у фестивалі 'Sharjah children's Reading Festival, 9th Edition' і запрошення на гастролі в інші країни. Сподіваємося, що кількість глядачів, які відвідали шоу в усьому світі, буде продовжувати зростати!",
+  "distance":"1934",
+  "startTime":"2017-01-09T18:00:00+0200",
+  "endTime":"2017-01-09T21:00:00+0200",
+  "timeFromNow":82212,
+  "isCancelled":false,
+  "isDraft":false,
+  "category":"family",
+  "place":{"id":"165164907333772",
+    "name":"Львівська обласна філармонія",
+    "location":{
+      "city":"Lviv",
+      "country":"Ukraine",
+      "latitude":49.82239443,
+      "longitude":24.03263881,
+      "street":"Chaykovskogo str. 7",
+      "zip":"UA-79011"
+      }
+  },
+  "stats":{
+    "attending":1000,
+    "declined":0,
+    "maybe":102,
+    "noreply":170
+  },
+  "venue":{
+    "id":"165164907333772",
+    "name":"Львівська обласна філармонія",
+    "about":null,
+    "emails":["music@gmail.com","music@gmail.com"],
+"coverPicture":"http://www.susieseiter.com/wp-content/uploads/2017/05/Frozen-Live.jpeg",
+"profilePicture":"https://tms.net.ua/files/2017/12/07/poster_C_UH-_G.jpg",
+"category":"Philharmonic ",
+"categoryList":["Profit Organization"],
+"location":{
+"city":"Lviv",
+"country":"Ukraine",
+"latitude":49.82239443,
+"longitude":24.03263881,
+"street":"Chaykovskogo str. 7",
+"zip":"UA-79011"
+}
+}
+},
+{"id":"12",
+  "name":"Crazy Town | Tour Poster (Eastern Europe)",
+  "type":"public",
+  "coverPicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjrtP2W0__XAhWlF5oKHRuUA9UQjRwIBw&url=http%3A%2F%2F6iee.com%2F576588.html&psig=AOvVaw0BeFQIDBZIYVK1S3AOuF3Z&ust=1513002362823105",
+  "profilePicture":"https://tms.net.ua/files/2017/12/05/poster_Nl329SU.jpg",
+  "description":"Вперше у Львові американська репкор група Crazytown відома завдяки  хіту 'Butterfly'\n\n CRAZY TOWN (USA)\n\n FOR THE WIN (USA)\n\n CONFESSIONS OF A TRAITOR (UK)",
+  "distance":"1934",
+  "startTime":"2018-01-24T20:00:00+0200",
+  "endTime":"2018-01-25T02:00:00+0200",
+  "timeFromNow":82212,
+  "isCancelled":false,
+  "isDraft":false,
+  "category":"night life",
+  "place":{"id":"165164907333772",
+    "name":"!FEST REPUBLIC",
+    "location":{
+      "city":"Lviv",
+      "country":"Ukraine",
+      "latitude":49.82239443,
+      "longitude":24.03263881,
+      "street":"Staroznesenska str. 24-26",
+      "zip":"UA-79011"
+      }
+  },
+  "stats":{
+    "attending":1000,
+    "declined":0,
+    "maybe":102,
+    "noreply":170
+  },
+  "venue":{
+    "id":"165164907333772",
+    "name":"!FEST REPUBLIC",
+    "about":null,
+    "emails":["club@gmail.com","club@gmail.com"],
+"coverPicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjrtP2W0__XAhWlF5oKHRuUA9UQjRwIBw&url=http%3A%2F%2F6iee.com%2F576588.html&psig=AOvVaw0BeFQIDBZIYVK1S3AOuF3Z&ust=1513002362823105",
+"profilePicture":"https://tms.net.ua/files/2017/12/05/poster_Nl329SU.jpg",
+"category":"Night club",
+"categoryList":["Profit Organization"],
+"location":{
+"city":"Lviv",
+"country":"Ukraine",
+"latitude":49.82239443,
+"longitude":24.03263881,
+"street":"Staroznesenska str. 24-26",
+"zip":"UA-79011"
+}
+}
+}
+  ]
+  }
+}
