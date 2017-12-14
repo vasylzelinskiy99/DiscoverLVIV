@@ -16,30 +16,30 @@ export default class CategoriesMenu extends React.Component {
     this.setState({
       current: e.key
     })
-    this.props.filterPosts(e.key)
+    this.props.filterPostsByCategory(e.key)
   }
   render() {
     return (
       <Menu
         onClick={this.handleClick}
-        selectedKeys={[this.state.current]}
+        selectedKeys={this.state.current}
         mode="horizontal"
         style={{display: 'flex',justifyContent: 'center'}}
       >
         <Menu.Item key="all">
           All
         </Menu.Item>
-        <Menu.Item key="a">
-          Sport
+        <Menu.Item key="family">
+          Family
         </Menu.Item>
-        <Menu.Item key="вечірка">
+        <Menu.Item key="night life">
             Party
         </Menu.Item>
-        <Menu.Item key="виставка">
+        <Menu.Item key="exhibition">
             Exhibition
         </Menu.Item>
-        <Menu.Item key="наук">
-            Science
+        <Menu.Item key="other">
+            Other
         </Menu.Item>
       </Menu>
     );

@@ -26,18 +26,18 @@ const { Header, Content, Footer } = Layout;
       <div>
       <Menu
         mode="horizontal"
-        style={{textAlign:'right'}}
+        style={{textAlign:'right',width:'30%',float:'left'}}
       >
           <Link to="/" style={{float:'left',marginLeft:'2em'}}> Home </Link>
-          <Login visible={this.state.showLogin}/>
-          <Button size="default" onClick={this.showLogin}>Login</Button>
-          <a href="#" style={{marginLeft:'10px'}}><Icon name="facebook" /></a>
-          <a href="#" style={{margin:'0 20px'}}><Icon name="twitter" /></a>
-          <div style={{float:'right'}}>
-          <LanguageSwitcher/>
-          <SearchBar/>
-          </div>
       </Menu>
+      <div style={{float:'right',textAlign:'right',width:'70%',backgroundColor:'#fff',lineHeight:'46px'}}>
+      <Login visible={this.state.showLogin}/>
+      <Button size="default" onClick={this.showLogin}>Login</Button>
+      <a href="#" style={{marginLeft:'10px'}}><Icon name="facebook" /></a>
+      <a href="#" style={{margin:'0 20px'}}><Icon name="twitter" /></a>
+      <LanguageSwitcher/>
+      <SearchBar/>
+      </div>
       </div>
     );
   }

@@ -2,10 +2,9 @@ import React, {PropTypes} from 'react'
 import CategoriesMenu from './CategoriesMenu'
 import PostsList from './PostsList'
 import {connect} from 'react-redux'
-import { fetchEvents } from '../actions/events'
+import {fetchEvents} from '../actions/events'
 import {search} from '../actions/search'
-import * as eventsDe from '../api/eventsde.json';
-
+import * as eventsEn from '../api/eventsen.json';
 
 class PostsProvider extends React.Component {
   constructor(props) {
@@ -14,49 +13,48 @@ class PostsProvider extends React.Component {
       fetching: true,
       events: this.props.events,
       currentlyDisplayed: this.props.events,
-      filter:'ф'
+      filter: ''
     }
     this.filterPosts = this.filterPosts.bind(this)
   }
-  componentWillMount(){
+  componentWillMount() {
     const {fetchEvents, events} = this.props
-    fetchEvents(eventsDe)
+    fetchEvents(eventsEn)
   }
   filterPosts = (filter) => {
     let filterWord = this.state.filter
     let newlyDisplayed = this.state.events.filter((oneEvent) => oneEvent.description.includes(filterWord));
-    console.log(newlyDisplayed);
-    this.setState({
-      currentlyDisplayed: newlyDisplayed,
-      filter: filterWord
-    })
+    this.setState({currentlyDisplayed: newlyDisplayed})
   }
-  componentWillReceiveProps(nextProps){
-    this.setState({
-      fetching: nextProps.fetching,
-      events:nextProps.events,
-      currentlyDisplayed: nextProps.events,
-      filter:nextProps.searchWord
+  filterPostsByCategory = (filter) => {
+    let newlyDisplayed = []
+    this.state.events.map((event) => {
+      if (event.category === filter) {
+        newlyDisplayed.push(event)
+      }
     })
+    if (filter === 'all') {
+      newlyDisplayed = this.state.events
+    }
+    this.setState({currentlyDisplayed: newlyDisplayed})
+  }
+  componentWillReceiveProps(nextProps) {
+    this.setState({fetching: nextProps.fetching, events: nextProps.events, currentlyDisplayed: nextProps.events, filter: nextProps.searchWord})
+
+    if (nextProps.searchWord) {
+      this.filterPosts(this.state.filter)
+    }
   }
   render() {
-    return (
-      <div>
-      <CategoriesMenu filterPosts={this.filterPosts}/>
+    return (<div>
+      <CategoriesMenu filterPostsByCategory={this.filterPostsByCategory}/>
       <PostsList events={this.state.currentlyDisplayed} fetching={this.state.fetching}/>
-      </div>
-    );
+    </div>);
   }
 }
 
 function mapStateToProps(state) {
-    return {
-       fetching:state.events.fetching,
-        events: state.events.events,
-        searchWord:state.search.searchWord
-    };
+  return {fetching: state.events.fetching, events: state.events.events, searchWord: state.search.searchWord};
 }
 
-export default connect(mapStateToProps,
-  {fetchEvents,search}
-)(PostsProvider);
+export default connect(mapStateToProps, {fetchEvents, search})(PostsProvider);
