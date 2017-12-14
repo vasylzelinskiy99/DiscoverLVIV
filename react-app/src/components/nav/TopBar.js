@@ -33,11 +33,11 @@ const { Header, Content, Footer } = Layout;
           <Button size="default" onClick={this.showLogin}>Login</Button>
           <a href="#" style={{marginLeft:'10px'}}><Icon name="facebook" /></a>
           <a href="#" style={{margin:'0 20px'}}><Icon name="twitter" /></a>
+          <div style={{float:'right'}}>
+          <LanguageSwitcher/>
+          <SearchBar/>
+          </div>
       </Menu>
-      <div style={{float:'right'}}>
-      <LanguageSwitcher/>
-      <SearchBar/>
-      </div>
       </div>
     );
   }
