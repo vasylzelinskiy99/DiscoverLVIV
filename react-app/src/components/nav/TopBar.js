@@ -1,12 +1,13 @@
 import React, {PropTypes} from 'react';
 import {Link} from 'react-router-dom'
-import { Menu, Button} from 'antd';
+import { Menu, Button, Layout} from 'antd';
 import LanguageSwitcher from './LanguageSwitcher'
 import SearchBar from './SearchBar'
 import {Icon} from 'react-fa'
 import Login from './Login'
 const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;
+const { Header, Content, Footer } = Layout;
 
  class TopBar extends React.Component {
    constructor(props) {
@@ -22,6 +23,7 @@ const MenuItemGroup = Menu.ItemGroup;
   }
   render() {
     return (
+      <div>
       <Menu
         mode="horizontal"
         style={{textAlign:'right'}}
@@ -31,9 +33,12 @@ const MenuItemGroup = Menu.ItemGroup;
           <Button size="default" onClick={this.showLogin}>Login</Button>
           <a href="#" style={{marginLeft:'10px'}}><Icon name="facebook" /></a>
           <a href="#" style={{margin:'0 20px'}}><Icon name="twitter" /></a>
-          <LanguageSwitcher/>
-          <SearchBar/>
       </Menu>
+      <div style={{float:'right'}}>
+      <LanguageSwitcher/>
+      <SearchBar/>
+      </div>
+      </div>
     );
   }
 }

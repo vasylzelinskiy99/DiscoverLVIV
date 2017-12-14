@@ -31,11 +31,8 @@ export default class Login extends React.Component {
           footer={null}
         >
           <p>For this action You should log in with</p>
-          <br/>
           <div className="LoginButtons">
           <Button type="primary" value="large" icon="">Facebook</Button>
-          <br />
-          <br />
           <Button type="primary" value="large" icon="">Gmail</Button>
           </div>
         </Modal>

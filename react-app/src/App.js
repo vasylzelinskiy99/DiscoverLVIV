@@ -5,7 +5,7 @@ import { LocaleProvider } from 'antd';
 import enUS from 'antd/lib/locale-provider/en_US';
 import deDE from 'antd/lib/locale-provider/de_DE';
 import ruRU from 'antd/lib/locale-provider/ru_RU';
-import Layout from './containers/Layout'
+import MainLayout from './containers/Layout'
 import Home from './containers/Home'
 import EventPage from './containers/EventPage'
 import ScrollToTop from './components/ScrollToTop'
@@ -17,12 +17,12 @@ class App extends Component {
       <LocaleProvider locale={ruRU}>
       <BrowserRouter>
       <ScrollToTop>
-        <Layout>
+        <MainLayout>
           <Switch>
             <Route exact path='/' component={Home}/>
             <Route exact path='/event:id' component={EventPage}/>
           </Switch>
-        </Layout>
+        </MainLayout>
       </ScrollToTop>
     </BrowserRouter>
       </LocaleProvider>

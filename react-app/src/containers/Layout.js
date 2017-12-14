@@ -1,18 +1,19 @@
 import React, {PropTypes} from 'react';
 import TopBar from '../components/nav/TopBar'
 import Footer from '../components/footer/Footer'
+import { Layout} from 'antd';
 
-export default class Layout extends React.Component {
+export default class MainLayout extends React.Component {
   render() {
     return (
-      <div>
+      <Layout className="layout">
       <TopBar/>
       {this.props.children}
       <Footer/>
-      </div>
+      </Layout>
     );
   }
 }
 
-Layout.propTypes = {
+MainLayout.propTypes = {
 };
