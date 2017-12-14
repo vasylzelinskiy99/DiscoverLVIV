@@ -1,594 +1,617 @@
-{"data":
-  {"events":[
-    {"id":"1",
-      "name":"Am 9. April findet der erste solo Konzert Nothing But Thieves statt!",
-      "type":"public",
-      "coverPicture":"https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
-      "profilePicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
-      "description":"Die britische Band Nothing But Thieves veröffentlichte 201 ihr erstes Album, schaffte es aber bereits, Muse, Arcade Fire zu eröffnenund beim U-Park Festival und Atlas Weekend in der Ukraine aufzutreten. Auch die Musiker wurden in den Dreharbeiten zu ihren Videos in Kiew gefangen.",
-      "distance":"1934",
-      "startTime":"2018-04-09T18:00:00+0200",
-      "endTime":"2018-0401:00:00+0200",
-      "timeFromNow":82212,
-      "isCancelled":false,
-      "isDraft":false,
-      "category":"night life",
-      "place":{"id":"165164907333772",
-        "name":"Night club Malevich",
-        "location":{
-          "city":"Lviv",
-          "country":"Ukraine",
-          "latitude":49.82239443,
-          "longitude":24.03263881,
-          "street":"Chornovola str. 2",
-          "zip":"UA-79011"
+{
+  "data": {
+    "events": [{
+        "id": "1",
+        "name": "Am 9. April findet der erste solo Konzert Nothing But Thieves statt!",
+        "type": "public",
+        "coverPicture": "https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
+        "profilePicture": "https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+        "description": "Die britische Band Nothing But Thieves veröffentlichte 201 ihr erstes Album, schaffte es aber bereits, Muse, Arcade Fire zu eröffnenund beim U-Park Festival und Atlas Weekend in der Ukraine aufzutreten. Auch die Musiker wurden in den Dreharbeiten zu ihren Videos in Kiew gefangen.",
+        "distance": "1934",
+        "startTime": "2018-04-09T18:00:00+0200",
+        "endTime": "2018-0401:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "night life",
+        "place": {
+          "id": "165164907333772",
+          "name": "Night club Malevich",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chornovola str. 2",
+            "zip": "UA-79011"
           }
-      },
-      "stats":{
-        "attending":1000,
-        "declined":0,
-        "maybe":102,
-        "noreply":170
-      },
-      "venue":{
-        "id":"165164907333772",
-        "name":"Night club Malevich",
-        "about":null,
-        "emails":["malevich@gmail.com","malevich@gmail.com"],
-  "coverPicture":"https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
-  "profilePicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
-  "category":"Night Club",
-  "categoryList":["Profit Organization"],
-  "location":{
-    "city":"Lviv",
-    "country":"Ukraine",
-    "latitude":49.82239443,
-    "longitude":24.03263881,
-    "street":"Chornovola str. 2",
-    "zip":"UA-79011"
-    }
-    }
-    },
-    {"id":"2",
-      "name":"Residenz von St. Nikolaus",
-      "type":"public",
-      "coverPicture":"https://moemisto.ua/uploads/media/event/0002/45/thumb_144354_event_content_photo.jpeg?1511774531",
-      "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjV59aA2_LXAhXNZ1AKHYfBDKoQjRwIBw&url=http%3A%2F%2Fzerkalo.mk.ua%2Fnovini%2Fkak-nikolaev-gotovitsya-vstretit-zimnie-prazdniki-10-dekabrya-v-gorode-otkroetsya-ledovyj-katok-i-chast-attrakcionov.html&psig=AOvVaw1eN7lRmw3jxe8sMch0C0yD&ust=1512557775904520",
-      "description":"In jeder fabelhaften Residenz wird persönlich mit dem Wundertäter treffen, ein süßes Geschenk bekommen und ein bleibenden Fotos im Speicher machen. \n\n ‚More positive Stimmung und Emotionen festliche Sitzung sofort fix Fotos Prämie ein. Wahre Kostüme, bezaubernde Landschaften und der wahre Geist des Urlaubs lassen uns sogar für Erwachsene an ein Märchen glauben. Es ist Zeit, einen Brief an den Heiligen“, vorzubereiten - hinzugefügt, um die Organisatoren \ n \ n By the way, Eltern durch Nicholas Richtlinien für Kinder Assistenten übertragen können und die Möglichkeit haben, zu fördern eigenes Geschenk zu übertragen, den Nikolaus persönlich das Kind übergeben.",
-      "distance":"1934",
-      "startTime":"2017-12-26T12:00:00+0200",
-      "endTime":"2017-12-26T23:00:00+0200",
-      "timeFromNow":82212,
-      "isCancelled":false,
-      "isDraft":false,
-      "category":"family",
-      "place":{"id":"165164907333772",
-        "name":"Platz vor dem Opernhaus",
-        "location":{
-          "city":"Lviv",
-          "country":"Ukraine",
-          "latitude":49.82239443,
-          "longitude":24.03263881,
-          "street":"Svobody avenue 28",
-          "zip":"UA-79011"
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Night club Malevich",
+          "about": null,
+          "emails": ["malevich@gmail.com", "malevich@gmail.com"],
+          "coverPicture": "https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/23331172_1595328273868826_3373250684702512989_o.jpg?oh=ce2c3ab53bb227593789443398228e53&oe=5A97BCDF",
+          "profilePicture": "https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+          "category": "Night Club",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chornovola str. 2",
+            "zip": "UA-79011"
           }
-      },
-      "stats":{
-        "attending":1000,
-        "declined":0,
-        "maybe":102,
-        "noreply":170
-      },
-      "venue":{
-        "id":"165164907333772",
-        "name":"Platz vor dem Opernhaus",
-        "about":null,
-        "emails":["square.com","square@gmail.com"],
-  "coverPicture":"https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
-  "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjV59aA2_LXAhXNZ1AKHYfBDKoQjRwIBw&url=http%3A%2F%2Fzerkalo.mk.ua%2Fnovini%2Fkak-nikolaev-gotovitsya-vstretit-zimnie-prazdniki-10-dekabrya-v-gorode-otkroetsya-ledovyj-katok-i-chast-attrakcionov.html&psig=AOvVaw1eN7lRmw3jxe8sMch0C0yD&ust=1512557775904520",
-  "category":"Nonprofit Organization",
-  "categoryList":["Nonprofit Organization"],
-  "location":{
-    "city":"Lviv",
-    "country":"Ukraine",
-    "latitude":49.82239443,
-    "longitude":24.03263881,
-    "street":"Svobody avenue 28",
-    "zip":"UA-79011"
-    }
-    }
-    },
-    {"id":"3",
-      "name":"Winterstadt in Lviv",
-      "type":"public",
-      "coverPicture":"https://moemisto.ua/uploads/media/event/0002/44/thumb_143731_event_content_photo.jpeg?1511424056",
-      "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=https%3A%2F%2Fwww.pinterest.com%2Fsweetonsweets%2Fcarousels%2F&psig=AOvVaw1aYoUkVgjEcTT-7VSI6vsa&ust=1512557130024471",
-      "description":"Potocki-Palast-Hof verwandeln sich in eine Fee Winter Platz. Es wird vom 28. Dezember - 8. JANUAR Platz im Stadtzentrum. Home -. Um 12.00 \ n \ n Die Besucher erwarten Schnee Labyrinth, hellen Winterfahrten, Weihnachtsleckereien, fabelhafte Shows und Spiele mit Animateuren \ N \ n ‚Teil der Stadt wird sich in eine lebendige Geschichte der Landschaft, wo jeder kleine Besucher ein Held werden kann. , - added die Organisatoren \ n \ n In der Stadt ist fantastisch Spaß für Erwachsene.. Es gibt täglich von 19.00 Uhr. Hand Aufführungen von Coverbands und chastuvatymut duftend heißen Getränken.",
-      "distance":"1934",
-      "startTime":"2017-12-25T12:00:00+0200",
-      "endTime":"2018-01-19T00:00:00+0200",
-      "timeFromNow":82212,
-      "isCancelled":false,
-      "isDraft":false,
-      "category":"family",
-      "place":{"id":"165164907333772",
-        "name":"Potocki Palast",
-        "location":{
-          "city":"Lviv",
-          "country":"Ukraine",
-          "latitude":49.82239443,
-          "longitude":24.03263881,
-          "street":"Kopernika str. 15",
-          "zip":"UA-79011"
-          }
-      },
-      "stats":{
-        "attending":1000,
-        "declined":0,
-        "maybe":102,
-        "noreply":170
-      },
-      "venue":{
-        "id":"165164907333772",
-        "name":"Potocki Palast",
-        "about":null,
-        "emails":["palace@gmail.com","palace@gmail.com"],
-  "coverPicture":"https://moemisto.ua/uploads/media/event/0002/44/thumb_143731_event_content_photo.jpeg?1511424056",
-  "profilePicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=https%3A%2F%2Fwww.pinterest.com%2Fsweetonsweets%2Fcarousels%2F&psig=AOvVaw1aYoUkVgjEcTT-7VSI6vsa&ust=1512557130024471",
-  "category":"Nonprofit Organization",
-  "categoryList":["Nonprofit Organization"],
-  "location":{
-    "city":"Lviv",
-    "country":"Ukraine",
-    "latitude":49.82239443,
-    "longitude":24.03263881,
-    "street":"Kopernika str. 15",
-    "zip":"UA-79011"
-    }
-    }
-    },
-    {"id":"4",
-      "name":"Außerhalb der Farbe",
-      "type":"public",
-      "coverPicture":"https://i2.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Zolota-seredina.jpg?resize=696%2C680",
-      "profilePicture":"https://i0.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Misto-spit.jpg?resize=696%2C481",
-      "description":"Außenfarbe - so die Ausstellung, die in Lviv Museum der Geschichte der Religion Meisters der Monumentalmalerei präsentiert und gefärbt Igor Badyak \n \n Spiele Badyak studierte dekorative Malerei an Lviv College of Dekorative und Angewandte Kunst nach I. Trush benannt.. Absolvierte die Nationale Kunstakademie Lviv (Abteilung für Monumentalmalerei). Seither (seit 1992) arbeitet er kontinuierlich auf dem Gebiet der Staffelei, Monumentalmalerei (Glasmalerei, Mosaike). Igor Badyak ist ein Teilnehmer der ukrainischen und internationalen Pleonisten. Seine Werke sind in Museen und privaten Sammlungen in Polen, die Slowakei, Rumänien, die Schweiz, Frankreich, Montenegro, Kanada, USA, Deutschland und anderen Ländern. \n\n Die Ausstellung Gemälde Badyak Spiele mit gemeinsamen Namen ‚Beyond Farbe präsentieren. Dies sind etwa dreißig Werke, die in der Technik der sinnlosen, abstrakten Kunst aufgeführt werden. Norden und dergleichen. \n\n Jedes Jahr in dem Sommer Open-Air-Künstlers Besuchen, Erfahrungen zu sammeln, Emotion, Erfahrung, und dann Winterabende in seinem Studio spielt auf dem Papier zu sehen ist, für neue, innovative Bildsprache suchen. Mit Hilfe geometrischer Formen, Linien, Raumkörper, Spots demonstriert der Künstler die Vielseitigkeit seines Talents und seines außergewöhnlichen Denkens. Igor Badyaks Arbeiten fördern intellektuelle Reflexion, kreatives Denken. Gleichzeitig zeigt der Autor eine ständige Suche nach neuen expressiven Formen und einer Vision der Welt.",
-      "distance":"1934",
-      "startTime":"2017-12-25T12:00:00+0200",
-      "endTime":"2017-12-31T00:00:00+0200",
-      "timeFromNow":82212,
-      "isCancelled":false,
-      "isDraft":false,
-      "category":"exhibition",
-      "place":{"id":"165164907333772",
-        "name":"Museum der Religionsgeschichte",
-        "location":{
-          "city":"Lviv",
-          "country":"Ukraine",
-          "latitude":49.82239443,
-          "longitude":24.03263881,
-          "street":"Museyna str. 1",
-          "zip":"UA-79011"
-          }
-      },
-      "stats":{
-        "attending":1000,
-        "declined":0,
-        "maybe":102,
-        "noreply":170
-      },
-      "venue":{
-        "id":"165164907333772",
-        "name":"Museum der Religionsgeschichte",
-        "about":null,
-        "emails":["museum@gmail.com","museum@gmail.com"],
-  "coverPicture":"https://i2.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Zolota-seredina.jpg?resize=696%2C680",
-  "profilePicture":"https://i0.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Misto-spit.jpg?resize=696%2C481",
-  "category":"Nonprofit Organization",
-  "categoryList":["Nonprofit Organization"],
-  "location":{
-    "city":"Lviv",
-    "country":"Ukraine",
-    "latitude":49.82239443,
-    "longitude":24.03263881,
-    "street":"Museyna str. 1",
-    "zip":"UA-79011"
-    }
-    }
-    },
-    {"id":"5",
-      "name":"Neujahr festliches Galakonzert",
-      "type":"public",
-      "coverPicture":"https://media.timeout.com/images/12320/image.jpg",
-      "profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
-      "description":"Lviv Regional Philharmonic präsentiert! \n \n Werke von Wolfgang Amadeus Mozart, Giuseppe Verdi, Georges Bizet, Franz Lehara, Johann Straußsa.
-      \n\n Akademisches Symphonieorchester der Lemberger Philharmonie, Taras Chris - Dirigent.",
-      "distance":"1934",
-      "startTime":"2017-12-27T19:00:00+0200",
-      "endTime":"2017-12-27T22:00:00+0200",
-      "timeFromNow":82212,
-      "isCancelled":false,
-      "isDraft":false,
-      "category":"other",
-      "place":{"id":"165164907333772",
-        "name":"Lviv Regionalphilharmonie",
-        "location":{
-          "city":"Lviv",
-          "country":"Ukraine",
-          "latitude":49.82239443,
-          "longitude":24.03263881,
-          "street":"Chaykovskogo str. 7",
-          "zip":"UA-79011"
-          }
-      },
-      "stats":{
-        "attending":1000,
-        "declined":0,
-        "maybe":102,
-        "noreply":170
-      },
-      "venue":{
-        "id":"165164907333772",
-        "name":"Lviv Regionalphilharmonie",
-        "about":null,
-        "emails":["music@gmail.com","music@gmail.com"],
-  "coverPicture":"https://media.timeout.com/images/12320/image.jpg",
-  "profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
-  "category":"Philharmonic ",
-  "categoryList":["Profit Organization"],
-  "location":{
-    "city":"Lviv",
-    "country":"Ukraine",
-    "latitude":49.82239443,
-    "longitude":24.03263881,
-    "street":"Chaykovskogo str. 7",
-    "zip":"UA-79011"
-    }
-    }
-  },
-  {"id":"6",
-    "name":"Nacht vor Weihnachten",
-    "type":"public",
-    "coverPicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BB%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
-    "profilePicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BE%D0%B1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0.jpg",
-    "description":"Musikalische Komödie „Night Before Christmas“ basiert auf den Roman-Klassiker der ukrainischen Literatur Nikolai Gogol Direktor, Verdienter Künstler der Ukraine Andriy Bakirov. \n \n Welche nur Erfindungen Künstler nicht auf der Bühne Magie, magische Atmosphäre festliche Weihnachts Nacht schaffen . Diese eng miteinander verflochten Legenden und alte Gemälde der zeitgenössischen ukrainischer Dorfleben, reale und imaginäre, fantastische und komisch. Spannende Rhythmen von Dance-Tracks, eine beeindruckenden Leistung Jugend Eifer bunte szenische Bilder erstellt brillantes Schauspielensemble, wird natürlich einen tiefen Eindruck auf jedem produzieren, die mit der Arbeit novatsiynoyu shevchenkivtsiv vertraut ist.",
-    "distance":"1934",
-    "startTime":"2018-01-03T19:00:00+0200",
-    "endTime":"2018-01-03T22:00:00+0200",
-    "timeFromNow":82212,
-    "isCancelled":false,
-    "isDraft":false,
-    "category":"other",
-    "place":{"id":"165164907333772",
-      "name":"Lviv Opernhaus",
-      "location":{
-        "city":"Lviv",
-        "country":"Ukraine",
-        "latitude":49.82239443,
-        "longitude":24.03263881,
-        "street":"Svobody avenue 28",
-        "zip":"UA-79011"
         }
-    },
-    "stats":{
-      "attending":1000,
-      "declined":0,
-      "maybe":102,
-      "noreply":170
-    },
-    "venue":{
-      "id":"165164907333772",
-      "name":"Lviv Opernhaus",
-      "about":null,
-      "emails":["theater@gmail.com","theater@gmail.com"],
-"coverPicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BB%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
-"profilePicture":"https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BE%D0%B1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0.jpg",
-"category":"Theather",
-"categoryList":["Profit Organization"],
-"location":{
-  "city":"Lviv",
-  "country":"Ukraine",
-  "latitude":49.82239443,
-  "longitude":24.03263881,
-  "street":"Svobody avenue 28",
-  "zip":"UA-79011"
-  }
-  }
-},
-{"id":"7",
-  "name":"Infantin Margarita",
-  "type":"public",
-  "coverPicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/Margarita5a201e09d5bfa.jpg",
-  "profilePicture":"http://www.matrony.ru/wp-content/uploads/2014/06/7.Diego-Velaskes.-Infanta-Margarita-v-rozovom.-1660.-e1403092217628.jpg",
-  "description":"Porträt der Infantin Margarita hat ein großes Museum und historischen Wert und gibt eine Vorstellung von dem hohen künstlerischen Niveau ‚goldenen Zeitalter‘ der spanischen Malerei, die auf Diego Velasquez zugeschrieben wird, obwohl es auch andere Annahmen sind ... \n \n Porträt der Infantin Margarita (Margarita Teresa) stammt aus der Sammlung von Gründern Museum von Bogdan und Varvara Khanenko. Das Gemälde wurde 1912 in Berlin bei der Versteigerung der Sammlung des Hamburger Sammlers Weber gekauft. Auf der Auktion wurde das Produkt nach einer langen Reise von privaten Sammlungen erworben. Die erste urkundliche Erwähnung über das Gemälde stammt aus 1827, wenn es gehörte noch den spanischen Künstler Viken Lopez-i Portanya und bekam bald in den Besitz von Spanien und Portugal Infante Sebastian Gabriel de Bourbon und de Braganca. In Erben Infante, der zu dieser Zeit in Frankreich gelebt hat, in der Stadt Pau, erwarb die Arbeit im Jahr 1891 London antikes Haus Kolnehi. Aber im nächsten Jahr wurde das Porträt deutschen Konsul Eduard Friedrich Weber weiter verkauft die ganzen Zeit das Bild ein anderes Porträt von Prinzessin betrachtet wurde -. Infanta Marianne Theresa (1638-1683), die älteste Tochter von Philip IV aus seiner ersten Ehe. Später wurde sie die Königin von Frankreich, die Frau von Louis XIV. Nur in den Vorkriegsjahren wurde festgestellt, dass ein Mädchen porträtiert - die jüngste Tochter des Königs, ein Kind von seiner zweiten Frau Marianna von Österreich.",
-  "distance":"1934",
-  "startTime":"2017-12-27T12:00:00+0200",
-  "endTime":"2017-12-27T23:00:00+0200",
-  "timeFromNow":82212,
-  "isCancelled":false,
-  "isDraft":false,
-  "category":"exhibition",
-  "place":{"id":"165164907333772",
-    "name":"Potocki Palast",
-    "location":{
-      "city":"Lviv",
-      "country":"Ukraine",
-      "latitude":49.82239443,
-      "longitude":24.03263881,
-      "street":"Kopernika str. 15",
-      "zip":"UA-79011"
+      },
+      {
+        "id": "2",
+        "name": "Residenz von St. Nikolaus",
+        "type": "public",
+        "coverPicture": "https://moemisto.ua/uploads/media/event/0002/45/thumb_144354_event_content_photo.jpeg?1511774531",
+        "profilePicture": "https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjV59aA2_LXAhXNZ1AKHYfBDKoQjRwIBw&url=http%3A%2F%2Fzerkalo.mk.ua%2Fnovini%2Fkak-nikolaev-gotovitsya-vstretit-zimnie-prazdniki-10-dekabrya-v-gorode-otkroetsya-ledovyj-katok-i-chast-attrakcionov.html&psig=AOvVaw1eN7lRmw3jxe8sMch0C0yD&ust=1512557775904520",
+        "description": "In jeder fabelhaften Residenz wird persönlich mit dem Wundertäter treffen, ein süßes Geschenk bekommen und ein bleibenden Fotos im Speicher machen. \n\n ‚More positive Stimmung und Emotionen festliche Sitzung sofort fix Fotos Prämie ein. Wahre Kostüme, bezaubernde Landschaften und der wahre Geist des Urlaubs lassen uns sogar für Erwachsene an ein Märchen glauben. Es ist Zeit, einen Brief an den Heiligen“, vorzubereiten - hinzugefügt, um die Organisatoren \n \n By the way, Eltern durch Nicholas Richtlinien für Kinder Assistenten übertragen können und die Möglichkeit haben, zu fördern eigenes Geschenk zu übertragen, den Nikolaus persönlich das Kind übergeben.",
+        "distance": "1934",
+        "startTime": "2017-12-26T12:00:00+0200",
+        "endTime": "2017-12-26T23:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "family",
+        "place": {
+          "id": "165164907333772",
+          "name": "Platz vor dem Opernhaus",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Svobody avenue 28",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Platz vor dem Opernhaus",
+          "about": null,
+          "emails": ["square.com", "square@gmail.com"],
+          "coverPicture": "https://gastroli.s3.amazonaws.com/uploads/event/new_promo_image/10915/2.jpg",
+          "profilePicture": "https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjV59aA2_LXAhXNZ1AKHYfBDKoQjRwIBw&url=http%3A%2F%2Fzerkalo.mk.ua%2Fnovini%2Fkak-nikolaev-gotovitsya-vstretit-zimnie-prazdniki-10-dekabrya-v-gorode-otkroetsya-ledovyj-katok-i-chast-attrakcionov.html&psig=AOvVaw1eN7lRmw3jxe8sMch0C0yD&ust=1512557775904520",
+          "category": "Nonprofit Organization",
+          "categoryList": ["Nonprofit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Svobody avenue 28",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "3",
+        "name": "Winterstadt in Lviv",
+        "type": "public",
+        "coverPicture": "https://moemisto.ua/uploads/media/event/0002/44/thumb_143731_event_content_photo.jpeg?1511424056",
+        "profilePicture": "https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=https%3A%2F%2Fwww.pinterest.com%2Fsweetonsweets%2Fcarousels%2F&psig=AOvVaw1aYoUkVgjEcTT-7VSI6vsa&ust=1512557130024471",
+        "description": "Potocki-Palast-Hof verwandeln sich in eine Fee Winter Platz. Es wird vom 28. Dezember - 8. JANUAR Platz im Stadtzentrum. Home -. Um 12.00 \n \n Die Besucher erwarten Schnee Labyrinth, hellen Winterfahrten, Weihnachtsleckereien, fabelhafte Shows und Spiele mit Animateuren \n \n ‚Teil der Stadt wird sich in eine lebendige Geschichte der Landschaft, wo jeder kleine Besucher ein Held werden kann. , - added die Organisatoren \n \n In der Stadt ist fantastisch Spaß für Erwachsene.. Es gibt täglich von 19.00 Uhr. Hand Aufführungen von Coverbands und chastuvatymut duftend heißen Getränken.",
+        "distance": "1934",
+        "startTime": "2017-12-25T12:00:00+0200",
+        "endTime": "2018-01-19T00:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "family",
+        "place": {
+          "id": "165164907333772",
+          "name": "Potocki Palast",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Kopernika str. 15",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Potocki Palast",
+          "about": null,
+          "emails": ["palace@gmail.com", "palace@gmail.com"],
+          "coverPicture": "https://moemisto.ua/uploads/media/event/0002/44/thumb_143731_event_content_photo.jpeg?1511424056",
+          "profilePicture": "https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=https%3A%2F%2Fwww.pinterest.com%2Fsweetonsweets%2Fcarousels%2F&psig=AOvVaw1aYoUkVgjEcTT-7VSI6vsa&ust=1512557130024471",
+          "category": "Nonprofit Organization",
+          "categoryList": ["Nonprofit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Kopernika str. 15",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "4",
+        "name": "Außerhalb der Farbe",
+        "type": "public",
+        "coverPicture": "https://i2.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Zolota-seredina.jpg?resize=696%2C680",
+        "profilePicture": "https://i0.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Misto-spit.jpg?resize=696%2C481",
+        "description": "Außenfarbe - so die Ausstellung, die in Lviv Museum der Geschichte der Religion Meisters der Monumentalmalerei präsentiert und gefärbt Igor Badyak \n \n Spiele Badyak studierte dekorative Malerei an Lviv College of Dekorative und Angewandte Kunst nach I. Trush benannt.. Absolvierte die Nationale Kunstakademie Lviv (Abteilung für Monumentalmalerei). Seither (seit 1992) arbeitet er kontinuierlich auf dem Gebiet der Staffelei, Monumentalmalerei (Glasmalerei, Mosaike). Igor Badyak ist ein Teilnehmer der ukrainischen und internationalen Pleonisten. Seine Werke sind in Museen und privaten Sammlungen in Polen, die Slowakei, Rumänien, die Schweiz, Frankreich, Montenegro, Kanada, USA, Deutschland und anderen Ländern. \n\n Die Ausstellung Gemälde Badyak Spiele mit gemeinsamen Namen ‚Beyond Farbe präsentieren. Dies sind etwa dreißig Werke, die in der Technik der sinnlosen, abstrakten Kunst aufgeführt werden. Norden und dergleichen. \n\n Jedes Jahr in dem Sommer Open-Air-Künstlers Besuchen, Erfahrungen zu sammeln, Emotion, Erfahrung, und dann Winterabende in seinem Studio spielt auf dem Papier zu sehen ist, für neue, innovative Bildsprache suchen. Mit Hilfe geometrischer Formen, Linien, Raumkörper, Spots demonstriert der Künstler die Vielseitigkeit seines Talents und seines außergewöhnlichen Denkens. Igor Badyaks Arbeiten fördern intellektuelle Reflexion, kreatives Denken. Gleichzeitig zeigt der Autor eine ständige Suche nach neuen expressiven Formen und einer Vision der Welt.",
+        "distance": "1934",
+        "startTime": "2017-12-25T12:00:00+0200",
+        "endTime": "2017-12-31T00:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "exhibition",
+        "place": {
+          "id": "165164907333772",
+          "name": "Museum der Religionsgeschichte",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Museyna str. 1",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Museum der Religionsgeschichte",
+          "about": null,
+          "emails": ["museum@gmail.com", "museum@gmail.com"],
+          "coverPicture": "https://i2.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Zolota-seredina.jpg?resize=696%2C680",
+          "profilePicture": "https://i0.wp.com/photo-lviv.in.ua/wp-content/uploads/2017/11/Misto-spit.jpg?resize=696%2C481",
+          "category": "Nonprofit Organization",
+          "categoryList": ["Nonprofit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Museyna str. 1",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "5",
+        "name": "Neujahr festliches Galakonzert",
+        "type": "public",
+        "coverPicture": "https://media.timeout.com/images/12320/image.jpg",
+        "profilePicture": "https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+        "description": "Lviv Regional Philharmonic präsentiert! \n \n Werke von Wolfgang Amadeus Mozart, Giuseppe Verdi, Georges Bizet, Franz Lehara, Johann Straußsa.\n \n Akademisches Symphonieorchester der Lemberger Philharmonie, Taras Chris - Dirigent.",
+        "distance": "1934",
+        "startTime": "2017-12-27T19:00:00+0200",
+        "endTime": "2017-12-27T22:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "other",
+        "place": {
+          "id": "165164907333772",
+          "name": "Lviv Regionalphilharmonie",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chaykovskogo str. 7",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Lviv Regionalphilharmonie",
+          "about": null,
+          "emails": ["music@gmail.com", "music@gmail.com"],
+          "coverPicture": "https://media.timeout.com/images/12320/image.jpg",
+          "profilePicture": "https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+          "category": "Philharmonic ",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chaykovskogo str. 7",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "6",
+        "name": "Nacht vor Weihnachten",
+        "type": "public",
+        "coverPicture": "https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BB%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
+        "profilePicture": "https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BE%D0%B1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0.jpg",
+        "description": "Musikalische Komödie „Night Before Christmas“ basiert auf den Roman-Klassiker der ukrainischen Literatur Nikolai Gogol Direktor, Verdienter Künstler der Ukraine Andriy Bakirov. \n \n Welche nur Erfindungen Künstler nicht auf der Bühne Magie, magische Atmosphäre festliche Weihnachts Nacht schaffen . Diese eng miteinander verflochten Legenden und alte Gemälde der zeitgenössischen ukrainischer Dorfleben, reale und imaginäre, fantastische und komisch. Spannende Rhythmen von Dance-Tracks, eine beeindruckenden Leistung Jugend Eifer bunte szenische Bilder erstellt brillantes Schauspielensemble, wird natürlich einen tiefen Eindruck auf jedem produzieren, die mit der Arbeit novatsiynoyu shevchenkivtsiv vertraut ist.",
+        "distance": "1934",
+        "startTime": "2018-01-03T19:00:00+0200",
+        "endTime": "2018-01-03T22:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "other",
+        "place": {
+          "id": "165164907333772",
+          "name": "Lviv Opernhaus",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Svobody avenue 28",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Lviv Opernhaus",
+          "about": null,
+          "emails": ["theater@gmail.com", "theater@gmail.com"],
+          "coverPicture": "https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BB%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
+          "profilePicture": "https://teatrarium.com/wp-content/uploads/2016/11/%D0%BD%D1%96%D1%87-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D0%BE%D0%BC-%D0%BE%D0%B1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0.jpg",
+          "category": "Theather",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Svobody avenue 28",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "7",
+        "name": "Infantin Margarita",
+        "type": "public",
+        "coverPicture": "https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/Margarita5a201e09d5bfa.jpg",
+        "profilePicture": "http://www.matrony.ru/wp-content/uploads/2014/06/7.Diego-Velaskes.-Infanta-Margarita-v-rozovom.-1660.-e1403092217628.jpg",
+        "description": "Porträt der Infantin Margarita hat ein großes Museum und historischen Wert und gibt eine Vorstellung von dem hohen künstlerischen Niveau ‚goldenen Zeitalter‘ der spanischen Malerei, die auf Diego Velasquez zugeschrieben wird, obwohl es auch andere Annahmen sind ... \n \n Porträt der Infantin Margarita (Margarita Teresa) stammt aus der Sammlung von Gründern Museum von Bogdan und Varvara Khanenko. Das Gemälde wurde 1912 in Berlin bei der Versteigerung der Sammlung des Hamburger Sammlers Weber gekauft. Auf der Auktion wurde das Produkt nach einer langen Reise von privaten Sammlungen erworben. Die erste urkundliche Erwähnung über das Gemälde stammt aus 1827, wenn es gehörte noch den spanischen Künstler Viken Lopez-i Portanya und bekam bald in den Besitz von Spanien und Portugal Infante Sebastian Gabriel de Bourbon und de Braganca. In Erben Infante, der zu dieser Zeit in Frankreich gelebt hat, in der Stadt Pau, erwarb die Arbeit im Jahr 1891 London antikes Haus Kolnehi. Aber im nächsten Jahr wurde das Porträt deutschen Konsul Eduard Friedrich Weber weiter verkauft die ganzen Zeit das Bild ein anderes Porträt von Prinzessin betrachtet wurde -. Infanta Marianne Theresa (1638-1683), die älteste Tochter von Philip IV aus seiner ersten Ehe. Später wurde sie die Königin von Frankreich, die Frau von Louis XIV. Nur in den Vorkriegsjahren wurde festgestellt, dass ein Mädchen porträtiert - die jüngste Tochter des Königs, ein Kind von seiner zweiten Frau Marianna von Österreich.",
+        "distance": "1934",
+        "startTime": "2017-12-27T12:00:00+0200",
+        "endTime": "2017-12-27T23:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "exhibition",
+        "place": {
+          "id": "165164907333772",
+          "name": "Potocki Palast",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Kopernika str. 15",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Potocki Palast",
+          "about": null,
+          "emails": ["palace@gmail.com", "palace@gmail.com"],
+          "coverPicture": "https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/Margarita5a201e09d5bfa.jpg",
+          "profilePicture": "http://www.matrony.ru/wp-content/uploads/2014/06/7.Diego-Velaskes.-Infanta-Margarita-v-rozovom.-1660.-e1403092217628.jpg",
+          "category": "Nonprofit Organization",
+          "categoryList": ["Nonprofit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Kopernika str. 15",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "8",
+        "name": "Weihnachtsgeschichte",
+        "type": "public",
+        "coverPicture": "https://c.tadst.com/gfx/750w/christmas.jpg?1",
+        "profilePicture": "https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company255/events-1218-450600-5277-kb.jpg?itok=o-gxNE6B",
+        "description": "Lilia Vikaruk - der Autor des Projekts, Mutter. \n \n Trio der Banditaristen Lvivyanka - Engel. \n \n Stanislav Goian - Esel. \n \n Oksana Kovaleva - Schaf. \n \n Mikhail Greine - Kamel \n \n Ensemble 'Celestial Flügel' - kleine kolyadniki.\n \n Ostap Grudovy - Mikhailik.\n \n Solomia Yakovenko - Solomyika.\n \n Liebe Fytyo - Direktor.",
+        "distance": "1934",
+        "startTime": "2017-12-26T19:00:00+0200",
+        "endTime": "2017-12-26T22:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "other",
+        "place": {
+          "id": "165164907333772",
+          "name": "Lviv Regionalphilharmonie",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chaykovskogo str. 7",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Lviv Regionalphilharmonie",
+          "about": null,
+          "emails": ["music@gmail.com", "music@gmail.com"],
+          "coverPicture": "https://media.timeout.com/images/12320/image.jpg",
+          "profilePicture": "https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
+          "category": "Philharmonic ",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chaykovskogo str. 7",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "9",
+        "name": "Ausstellung 'Stadtporträt'",
+        "type": "public",
+        "coverPicture": "https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+        "profilePicture": "https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+        "description": "Die Ausstellung wird am Beispiel der Kunst Feierlichkeit der vorliegenden Bild der Stadt in einer der wichtigsten Teile seiner Geschichte entwickelt - die Zeit nach der ersten Teilung Polens (1772), als Galizien das österreichische Reich betritt. Die Stadt wird zur Hauptstadt des Königreichs Galicien und Volodymyr, das auf dem Territorium des ehemaligen galicischen Fürstentums gebildet wurde. Verwaltungs-, Bildungs-, religiöse und bäuerliche Reform leitenden Galizien österreichischen Herrscher Maria Theresia (1717 - 1780) und Joseph II (1741 - 1790)., Das Gesicht der Stadt und ihre Lebensweise \n \n in der Ausstellung von Interesse zu wechseln ( Arten von Lemberg und Porträts von Lemberg), in Bezug auf das Ende des XVIII - die erste Hälfte des neunzehnten Jahrhunderts. Sie gehören zu den zeitgenössischen Künstlern, die in Lemberg arbeiteten und Augenzeugen der Ereignisse wurden, sind die besten authentischen Dokumente ihrer Zeit. \n\n Die Ausstellung wird durch die Arbeiten von Joseph Pichmana, Carol Schweickart, Aloisia Rehana Jan Mashkovsky, Martin Yablonsky, Juliusz Kossak, Charles Auer, Karl Mieten und viele andere vertreten sein. Die retrospektive Charakter der Belichtung wird der Betrachter in die Vergangenheit drehen, dann tauchen in die Atmosphäre der Stadt, ihren Geist, Stimmung zu fühlen, über das Leben seiner Bewohner und ihre Bräuche, Kultur, Kunst, Bildung und Politik lernen. Bevor die Ausstellung Werke gehören, das Nationalmuseum in Lwiw Andrey Sheptytsky Lviv National Gallery of Arts gehört. B. Voznytsky, Lviv National Scientific Library der Ukraine. Stefanik, Lviv History Museum, das Museum für Ethnographie und Handwerk Institut der Nationalen Akademie der Wissenschaften der Ukraine und privater Sammler.",
+        "distance": "1934",
+        "startTime": "2017-12-26T12:00:00+0200",
+        "endTime": "2018-02-06T22:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "exhibition",
+        "place": {
+          "id": "165164907333772",
+          "name": "Andrei Sheptytsky Nationalmuseum",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Svobody avenue 20",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Andrei Sheptytsky Nationalmuseum",
+          "about": null,
+          "emails": ["museum@gmail.com", "museum@gmail.com"],
+          "coverPicture": "https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+          "profilePicture": "https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
+          "category": "Museum",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Svobody avenue 20",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "10",
+        "name": "St. Nikolaus Weg",
+        "type": "public",
+        "coverPicture": "https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company131/events-763-tyug-12469-kb.png?itok=mPsTzZhV",
+        "profilePicture": "https://afisha.lviv.ua/sites/image.life/users/virtual.ua.jpg",
+        "description": "Regie Misaki \n\n Artdirector Zavyalova \n \n Komponist z.d.m. Saenko \n\n Choreographer Scheiße \n\n Regieassistent Hulyuk \n\n Mit dem Beginn des Winters, jeder ist für St. Nikolaus warten, die jedes Jahr von Engel zu uns kommen, Freude und Geschenke zu bringen - die für das, was er verdient hat. Doch nicht jeder weiß, dass, um Nikolaus vom Himmel herab, die Sterne ihm den Weg zum Boden zeigen. Ist in der Lage zu erreichen uns Nicholas, wenn Gauner, die im Einvernehmen mit den Wölfen die Sterne verbergen? Natürlich kann er, weil in dieser magischen Nacht sogar Kaninchen tapfer sein können (wenn es freundlich sein kann) und aufrichtiges Herz kann Licht mehr glänzen als die Sterne.",
+        "distance": "1934",
+        "startTime": "2017-12-27T12:00:00+0200",
+        "endTime": "2018-12-27T22:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "other",
+        "place": {
+          "id": "165164907333772",
+          "name": "Das erste Theater",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Gnatyuka str. 11",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Das erste Theater",
+          "about": null,
+          "emails": ["theatre@gmail.com", "theatre@gmail.com"],
+          "coverPicture": "https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company131/events-763-tyug-12469-kb.png?itok=mPsTzZhV",
+          "profilePicture": "https://afisha.lviv.ua/sites/image.life/users/virtual.ua.jpg",
+          "category": "Theatre",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Gnatyuka str. 11",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "11",
+        "name": "Eine großartige Show für die ganze Familie 'Kaltes Herz'",
+        "type": "public",
+        "coverPicture": "http://www.susieseiter.com/wp-content/uploads/2017/05/Frozen-Live.jpeg",
+        "profilePicture": "https://tms.net.ua/files/2017/12/07/poster_C_UH-_G.jpg",
+        "description": "'Kaltes Herz'- eine groß angelegte Einstellung des Produktionszentrums von Odessa ‚Made in odessa‘ - unglaublicher Leistung, wird auf der ganzen Welt und das meisten Bargeld in der Geschichte von ‚Walt Disney‘ auf die geliebten Cartoon Kinder basiert. . Geschichte überraschend neue Fakten: das Aussehen der Charaktere, mit denen das Publikum nicht vor und unerwarteten Wendungen kannte, in einem original kombiniert, voll von faszinierenden Ereignissen des Skripts \n \n ‚Cold Heart‘ - ein hellen, aufregend, einzigartig in seiner Art Show für die ganze Familie! Die Skala Performance, unglaubliche Abenteuer, mehr als 40 Zeichen, großartige Landschaft, bunte Kostüme, wunderbare Musik, atemberaubende Feuershow, atemberaubende Akrobatik, moderne Choreographie - gibt dem Publikum ein Gefühl der Feier! Das Wunder in Form von Spezialeffekten und interaktiven Momenten, in denen die Gäste werden in einer Reihe von fantastischen Ereignissen direkt beteiligt, die unbeschreiblich führten erfreut Kinder und Erwachsene beeindruckend! \n \n Die Show ist ein Erfolg nicht nur in der Ukraine, sondern auch im Ausland. Das Projekt ‚Cold Heart‘ und alle Teilnehmer erhalten Zertifikate registriert Dank und Belohnung für die Teilnahme am Festival ‚Sharjah Kinder Reading Festival, 9. Auflage‘ und eine Einladung in anderen Ländern zu besichtigen. Wir hoffen, dass die Zahl der Zuschauer, die die Show auf der ganzen Welt besucht wird weiter wachsen!",
+        "distance": "1934",
+        "startTime": "2017-01-09T18:00:00+0200",
+        "endTime": "2017-01-09T21:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "family",
+        "place": {
+          "id": "165164907333772",
+          "name": "Lviv Regionalphilharmonie",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chaykovskogo str. 7",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "Lviv Regionalphilharmonie",
+          "about": null,
+          "emails": ["music@gmail.com", "music@gmail.com"],
+          "coverPicture": "http://www.susieseiter.com/wp-content/uploads/2017/05/Frozen-Live.jpeg",
+          "profilePicture": "https://tms.net.ua/files/2017/12/07/poster_C_UH-_G.jpg",
+          "category": "Philharmonic ",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Chaykovskogo str. 7",
+            "zip": "UA-79011"
+          }
+        }
+      },
+      {
+        "id": "12",
+        "name": "Crazy Town | Tour Poster (Eastern Europe)",
+        "type": "public",
+        "coverPicture": "https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjrtP2W0__XAhWlF5oKHRuUA9UQjRwIBw&url=http%3A%2F%2F6iee.com%2F576588.html&psig=AOvVaw0BeFQIDBZIYVK1S3AOuF3Z&ust=1513002362823105",
+        "profilePicture": "https://tms.net.ua/files/2017/12/05/poster_Nl329SU.jpg",
+        "description": "Zum ersten Mal in der Republik Craztown gibt es amerikanische Republikaner Die Band ist bekannt für ihren Hit 'Butterfly'\n\n CRAZY TOWN (USA)\n\n FOR THE WIN (USA)\n\n CONFESSIONS OF A TRAITOR (UK)",
+        "distance": "1934",
+        "startTime": "2018-01-24T20:00:00+0200",
+        "endTime": "2018-01-25T02:00:00+0200",
+        "timeFromNow": 82212,
+        "isCancelled": false,
+        "isDraft": false,
+        "category": "night life",
+        "place": {
+          "id": "165164907333772",
+          "name": "!FEST REPUBLIC",
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Staroznesenska str. 24-26",
+            "zip": "UA-79011"
+          }
+        },
+        "stats": {
+          "attending": 1000,
+          "declined": 0,
+          "maybe": 102,
+          "noreply": 170
+        },
+        "venue": {
+          "id": "165164907333772",
+          "name": "!FEST REPUBLIC",
+          "about": null,
+          "emails": ["club@gmail.com", "club@gmail.com"],
+          "coverPicture": "https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjrtP2W0__XAhWlF5oKHRuUA9UQjRwIBw&url=http%3A%2F%2F6iee.com%2F576588.html&psig=AOvVaw0BeFQIDBZIYVK1S3AOuF3Z&ust=1513002362823105",
+          "profilePicture": "https://tms.net.ua/files/2017/12/05/poster_Nl329SU.jpg",
+          "category": "Night club",
+          "categoryList": ["Profit Organization"],
+          "location": {
+            "city": "Lviv",
+            "country": "Ukraine",
+            "latitude": 49.82239443,
+            "longitude": 24.03263881,
+            "street": "Staroznesenska str. 24-26",
+            "zip": "UA-79011"
+          }
+        }
       }
-  },
-  "stats":{
-    "attending":1000,
-    "declined":0,
-    "maybe":102,
-    "noreply":170
-  },
-  "venue":{
-    "id":"165164907333772",
-    "name":"Potocki Palast",
-    "about":null,
-    "emails":["palace@gmail.com","palace@gmail.com"],
-"coverPicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/Margarita5a201e09d5bfa.jpg",
-"profilePicture":"http://www.matrony.ru/wp-content/uploads/2014/06/7.Diego-Velaskes.-Infanta-Margarita-v-rozovom.-1660.-e1403092217628.jpg",
-"category":"Nonprofit Organization",
-"categoryList":["Nonprofit Organization"],
-"location":{
-"city":"Lviv",
-"country":"Ukraine",
-"latitude":49.82239443,
-"longitude":24.03263881,
-"street":"Kopernika str. 15",
-"zip":"UA-79011"
-}
-}
-},
-{"id":"8",
-  "name":"Weihnachtsgeschichte",
-  "type":"public",
-  "coverPicture":"https://c.tadst.com/gfx/750w/christmas.jpg?1",
-  "profilePicture":"https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company255/events-1218-450600-5277-kb.jpg?itok=o-gxNE6B",
-  "description":"Lilia Vikaruk - der Autor des Projekts, Mutter. \n\n Trio der Banditaristen Lvivyanka - Engel. \n\n Stanislav Goian - Esel. \n\n Oksana Kovaleva - Schaf. \n\n Mikhail Greine - Kamel \n\n Ensemble
-  'Celestial Flügel' - kleine kolyadniki. \n\n Ostap Grudovy - Mikhailik. \n\n Solomia Yakovenko - Solomyika. \n\n Liebe Fytyo - Direktor.",
-  "distance":"1934",
-  "startTime":"2017-12-26T19:00:00+0200",
-  "endTime":"2017-12-26T22:00:00+0200",
-  "timeFromNow":82212,
-  "isCancelled":false,
-  "isDraft":false,
-  "category":"other",
-  "place":{"id":"165164907333772",
-    "name":"Lviv Regionalphilharmonie",
-    "location":{
-      "city":"Lviv",
-      "country":"Ukraine",
-      "latitude":49.82239443,
-      "longitude":24.03263881,
-      "street":"Chaykovskogo str. 7",
-      "zip":"UA-79011"
-      }
-  },
-  "stats":{
-    "attending":1000,
-    "declined":0,
-    "maybe":102,
-    "noreply":170
-  },
-  "venue":{
-    "id":"165164907333772",
-    "name":"Lviv Regionalphilharmonie",
-    "about":null,
-    "emails":["music@gmail.com","music@gmail.com"],
-"coverPicture":"https://media.timeout.com/images/12320/image.jpg",
-"profilePicture":"https://www.s.032.ua/section/afisha_event/upload/pers/40/img/afisha/000/000/027/27-12-20175a17573eb9f30.jpg",
-"category":"Philharmonic ",
-"categoryList":["Profit Organization"],
-"location":{
-"city":"Lviv",
-"country":"Ukraine",
-"latitude":49.82239443,
-"longitude":24.03263881,
-"street":"Chaykovskogo str. 7",
-"zip":"UA-79011"
-}
-}
-},
-{"id":"9",
-  "name":"Ausstellung 'Stadtporträt'",
-  "type":"public",
-  "coverPicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
-  "profilePicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
-  "description":"Die Ausstellung wird am Beispiel der Kunst Feierlichkeit der vorliegenden Bild der Stadt in einer der wichtigsten Teile seiner Geschichte entwickelt - die Zeit nach der ersten Teilung Polens (1772), als Galizien das österreichische Reich betritt. Die Stadt wird zur Hauptstadt des Königreichs Galicien und Volodymyr, das auf dem Territorium des ehemaligen galicischen Fürstentums gebildet wurde. Verwaltungs-, Bildungs-, religiöse und bäuerliche Reform leitenden Galizien österreichischen Herrscher Maria Theresia (1717 - 1780) und Joseph II (1741 - 1790)., Das Gesicht der Stadt und ihre Lebensweise \n \n in der Ausstellung von Interesse zu wechseln ( Arten von Lemberg und Porträts von Lemberg), in Bezug auf das Ende des XVIII - die erste Hälfte des neunzehnten Jahrhunderts. Sie gehören zu den zeitgenössischen Künstlern, die in Lemberg arbeiteten und Augenzeugen der Ereignisse wurden, sind die besten authentischen Dokumente ihrer Zeit. \n\n Die Ausstellung wird durch die Arbeiten von Joseph Pichmana, Carol Schweickart, Aloisia Rehana Jan Mashkovsky, Martin Yablonsky, Juliusz Kossak, Charles Auer, Karl Mieten und viele andere vertreten sein. Die retrospektive Charakter der Belichtung wird der Betrachter in die Vergangenheit drehen, dann tauchen in die Atmosphäre der Stadt, ihren Geist, Stimmung zu fühlen, über das Leben seiner Bewohner und ihre Bräuche, Kultur, Kunst, Bildung und Politik lernen. Bevor die Ausstellung Werke gehören, das Nationalmuseum in Lwiw Andrey Sheptytsky Lviv National Gallery of Arts gehört. B. Voznytsky, Lviv National Scientific Library der Ukraine. Stefanik, Lviv History Museum, das Museum für Ethnographie und Handwerk Institut der Nationalen Akademie der Wissenschaften der Ukraine und privater Sammler.",
-  "distance":"1934",
-  "startTime":"2017-12-26T12:00:00+0200",
-  "endTime":"2018-02-06T22:00:00+0200",
-  "timeFromNow":82212,
-  "isCancelled":false,
-  "isDraft":false,
-  "category":"exhibition",
-  "place":{"id":"165164907333772",
-    "name":"Andrei Sheptytsky Nationalmuseum",
-    "location":{
-      "city":"Lviv",
-      "country":"Ukraine",
-      "latitude":49.82239443,
-      "longitude":24.03263881,
-      "street":"Svobody avenue 20",
-      "zip":"UA-79011"
-      }
-  },
-  "stats":{
-    "attending":1000,
-    "declined":0,
-    "maybe":102,
-    "noreply":170
-  },
-  "venue":{
-    "id":"165164907333772",
-    "name":"Andrei Sheptytsky Nationalmuseum",
-    "about":null,
-    "emails":["museum@gmail.com","museum@gmail.com"],
-"coverPicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
-"profilePicture":"https://afisha.lviv.ua/sites/image.life/company137/events-3776-24774825101563044664305793423552269183520962n-10269-kb.jpg",
-"category":"Museum",
-"categoryList":["Profit Organization"],
-"location":{
-"city":"Lviv",
-"country":"Ukraine",
-"latitude":49.82239443,
-"longitude":24.03263881,
-"street":"Svobody avenue 20",
-"zip":"UA-79011"
-}
-}
-},
-{"id":"10",
-  "name":"St. Nikolaus Weg",
-  "type":"public",
-  "coverPicture":"https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company131/events-763-tyug-12469-kb.png?itok=mPsTzZhV",
-  "profilePicture":"https://afisha.lviv.ua/sites/image.life/users/virtual.ua.jpg",
-  "description":"Regie Misaki \n\n Artdirector Zavyalova \n \n Komponist z.d.m. Saenko \n\n Choreographer Scheiße \n\n Regieassistent Hulyuk \n\n Mit dem Beginn des Winters, jeder ist für St. Nikolaus warten, die jedes Jahr von Engel zu uns kommen, Freude und Geschenke zu bringen - die für das, was er verdient hat. Doch nicht jeder weiß, dass, um Nikolaus vom Himmel herab, die Sterne ihm den Weg zum Boden zeigen. Ist in der Lage zu erreichen uns Nicholas, wenn Gauner, die im Einvernehmen mit den Wölfen die Sterne verbergen? Natürlich kann er, weil in dieser magischen Nacht sogar Kaninchen tapfer sein können (wenn es freundlich sein kann) und aufrichtiges Herz kann Licht mehr glänzen als die Sterne.",
-  "distance":"1934",
-  "startTime":"2017-12-27T12:00:00+0200",
-  "endTime":"2018-12-27T22:00:00+0200",
-  "timeFromNow":82212,
-  "isCancelled":false,
-  "isDraft":false,
-  "category":"other",
-  "place":{"id":"165164907333772",
-    "name":"Das erste Theater",
-    "location":{
-      "city":"Lviv",
-      "country":"Ukraine",
-      "latitude":49.82239443,
-      "longitude":24.03263881,
-      "street":"Gnatyuka str. 11",
-      "zip":"UA-79011"
-      }
-  },
-  "stats":{
-    "attending":1000,
-    "declined":0,
-    "maybe":102,
-    "noreply":170
-  },
-  "venue":{
-    "id":"165164907333772",
-    "name":"Das erste Theater",
-    "about":null,
-    "emails":["theatre@gmail.com","theatre@gmail.com"],
-"coverPicture":"https://afisha.lviv.ua/sites/image.life/styles/vertical_middle/public/company131/events-763-tyug-12469-kb.png?itok=mPsTzZhV",
-"profilePicture":"https://afisha.lviv.ua/sites/image.life/users/virtual.ua.jpg",
-"category":"Theatre",
-"categoryList":["Profit Organization"],
-"location":{
-"city":"Lviv",
-"country":"Ukraine",
-"latitude":49.82239443,
-"longitude":24.03263881,
-"street":"Gnatyuka str. 11",
-"zip":"UA-79011"
-}
-}
-},
-{"id":"11",
-  "name":"Eine großartige Show für die ganze Familie 'Kaltes Herz'",
-  "type":"public",
-  "coverPicture":"http://www.susieseiter.com/wp-content/uploads/2017/05/Frozen-Live.jpeg",
-  "profilePicture":"https://tms.net.ua/files/2017/12/07/poster_C_UH-_G.jpg",
-  "description":"'Kaltes Herz'- eine groß angelegte Einstellung des Produktionszentrums von Odessa ‚Made in odessa‘ - unglaublicher Leistung, wird auf der ganzen Welt und das meisten Bargeld in der Geschichte von ‚Walt Disney‘ auf die geliebten Cartoon Kinder basiert. . Geschichte überraschend neue Fakten: das Aussehen der Charaktere, mit denen das Publikum nicht vor und unerwarteten Wendungen kannte, in einem original kombiniert, voll von faszinierenden Ereignissen des Skripts \n \n ‚Cold Heart‘ - ein hellen, aufregend, einzigartig in seiner Art Show für die ganze Familie! Die Skala Performance, unglaubliche Abenteuer, mehr als 40 Zeichen, großartige Landschaft, bunte Kostüme, wunderbare Musik, atemberaubende Feuershow, atemberaubende Akrobatik, moderne Choreographie - gibt dem Publikum ein Gefühl der Feier! Das Wunder in Form von Spezialeffekten und interaktiven Momenten, in denen die Gäste werden in einer Reihe von fantastischen Ereignissen direkt beteiligt, die unbeschreiblich führten erfreut Kinder und Erwachsene beeindruckend! \ N \ n Die Show ist ein Erfolg nicht nur in der Ukraine, sondern auch im Ausland. Das Projekt ‚Cold Heart‘ und alle Teilnehmer erhalten Zertifikate registriert Dank und Belohnung für die Teilnahme am Festival ‚Sharjah Kinder Reading Festival, 9. Auflage‘ und eine Einladung in anderen Ländern zu besichtigen. Wir hoffen, dass die Zahl der Zuschauer, die die Show auf der ganzen Welt besucht wird weiter wachsen!",
-  "distance":"1934",
-  "startTime":"2017-01-09T18:00:00+0200",
-  "endTime":"2017-01-09T21:00:00+0200",
-  "timeFromNow":82212,
-  "isCancelled":false,
-  "isDraft":false,
-  "category":"family",
-  "place":{"id":"165164907333772",
-    "name":"Lviv Regionalphilharmonie",
-    "location":{
-      "city":"Lviv",
-      "country":"Ukraine",
-      "latitude":49.82239443,
-      "longitude":24.03263881,
-      "street":"Chaykovskogo str. 7",
-      "zip":"UA-79011"
-      }
-  },
-  "stats":{
-    "attending":1000,
-    "declined":0,
-    "maybe":102,
-    "noreply":170
-  },
-  "venue":{
-    "id":"165164907333772",
-    "name":"Lviv Regionalphilharmonie",
-    "about":null,
-    "emails":["music@gmail.com","music@gmail.com"],
-"coverPicture":"http://www.susieseiter.com/wp-content/uploads/2017/05/Frozen-Live.jpeg",
-"profilePicture":"https://tms.net.ua/files/2017/12/07/poster_C_UH-_G.jpg",
-"category":"Philharmonic ",
-"categoryList":["Profit Organization"],
-"location":{
-"city":"Lviv",
-"country":"Ukraine",
-"latitude":49.82239443,
-"longitude":24.03263881,
-"street":"Chaykovskogo str. 7",
-"zip":"UA-79011"
-}
-}
-},
-{"id":"12",
-  "name":"Crazy Town | Tour Poster (Eastern Europe)",
-  "type":"public",
-  "coverPicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjrtP2W0__XAhWlF5oKHRuUA9UQjRwIBw&url=http%3A%2F%2F6iee.com%2F576588.html&psig=AOvVaw0BeFQIDBZIYVK1S3AOuF3Z&ust=1513002362823105",
-  "profilePicture":"https://tms.net.ua/files/2017/12/05/poster_Nl329SU.jpg",
-  "description":"Zum ersten Mal in der Republik Craztown gibt es amerikanische Republikaner Die Band ist bekannt für ihren Hit 'Butterfly'\n\n CRAZY TOWN (USA)\n\n FOR THE WIN (USA)\n\n CONFESSIONS OF A TRAITOR (UK)",
-  "distance":"1934",
-  "startTime":"2018-01-24T20:00:00+0200",
-  "endTime":"2018-01-25T02:00:00+0200",
-  "timeFromNow":82212,
-  "isCancelled":false,
-  "isDraft":false,
-  "category":"night life",
-  "place":{"id":"165164907333772",
-    "name":"!FEST REPUBLIC",
-    "location":{
-      "city":"Lviv",
-      "country":"Ukraine",
-      "latitude":49.82239443,
-      "longitude":24.03263881,
-      "street":"Staroznesenska str. 24-26",
-      "zip":"UA-79011"
-      }
-  },
-  "stats":{
-    "attending":1000,
-    "declined":0,
-    "maybe":102,
-    "noreply":170
-  },
-  "venue":{
-    "id":"165164907333772",
-    "name":"!FEST REPUBLIC",
-    "about":null,
-    "emails":["club@gmail.com","club@gmail.com"],
-"coverPicture":"https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjrtP2W0__XAhWlF5oKHRuUA9UQjRwIBw&url=http%3A%2F%2F6iee.com%2F576588.html&psig=AOvVaw0BeFQIDBZIYVK1S3AOuF3Z&ust=1513002362823105",
-"profilePicture":"https://tms.net.ua/files/2017/12/05/poster_Nl329SU.jpg",
-"category":"Night club",
-"categoryList":["Profit Organization"],
-"location":{
-"city":"Lviv",
-"country":"Ukraine",
-"latitude":49.82239443,
-"longitude":24.03263881,
-"street":"Staroznesenska str. 24-26",
-"zip":"UA-79011"
-}
-}
-} ]
+    ]
   }
 }
