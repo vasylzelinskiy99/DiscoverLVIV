@@ -13,9 +13,6 @@ export default class Login extends React.Component {
       visible: true,
      });
    }
-  handleCancel = () => {
-    this.setState({ visible: false });
-  }
   componentWillReceiveProps(nextProps){
     this.setState({
       visible: nextProps.visible
@@ -27,7 +24,7 @@ export default class Login extends React.Component {
         <Modal
           visible={this.state.visible}
           title="Log In"
-          onCancel={this.handleCancel}
+          onCancel={this.props.handleCancel}
           footer={null}
         >
           <p>For this action You should log in with</p>

@@ -17,9 +17,12 @@ const { Header, Content, Footer } = Layout;
          }
     this.showLogin = this.showLogin.bind(this)
    }
-  showLogin(){
+  showLogin = () => {
     console.log('show');
     this.setState({showLogin:true})
+  }
+  handleCancel = () => {
+    this.setState({ showLogin: false });
   }
   render() {
     return (
@@ -31,7 +34,7 @@ const { Header, Content, Footer } = Layout;
           <Link to="/" style={{float:'left',marginLeft:'2em'}}> Home </Link>
       </Menu>
       <div style={{float:'right',textAlign:'right',width:'70%',backgroundColor:'#fff',lineHeight:'46px'}}>
-      <Login visible={this.state.showLogin}/>
+      <Login visible={this.state.showLogin} handleCancel={this.handleCancel}/>
       <Button size="default" onClick={this.showLogin}>Login</Button>
       <a href="#" style={{marginLeft:'10px'}}><Icon name="facebook" /></a>
       <a href="#" style={{margin:'0 20px'}}><Icon name="twitter" /></a>
