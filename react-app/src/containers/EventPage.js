@@ -65,7 +65,7 @@ export default class EventPage extends React.Component {
                         </div>
                       </div>
                     </div>
-                    <Comments/>
+                    <Comments username="Petya" avatar="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"/>
                   </Col>
                 </Row>
               </div>

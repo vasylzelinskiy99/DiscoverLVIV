@@ -58,7 +58,7 @@ class LanguageSwitcher extends React.Component {
   }
   render() {
     return (<Select defaultValue="en" style={{
-        width: 60
+        width: 65
       }} onChange={this.handleChange}>
       <Option value="en">En</Option>
       <Option value="ru">Ru</Option>
